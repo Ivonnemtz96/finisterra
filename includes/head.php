@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="#">
     <meta name="description" content="#">
-    <title>Finisterra</title>
+    <title>Avaluos Finisterra</title>
     <!-- Fav and touch icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/favicon.ico">
