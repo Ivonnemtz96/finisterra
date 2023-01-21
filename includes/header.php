@@ -214,7 +214,7 @@
                     <input type="text" name="#" class="form-control form-control-custom" placeholder="Search">
                     <div class="input-group-prepend">
                         <button type="submit" class="theme-btn"><i class="fal fa-search"></i></button>
-                    </div>
+                    </div> 
                 </div>
             </form>
         </div>
