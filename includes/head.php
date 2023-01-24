@@ -6,16 +6,16 @@
     <meta name="description" content="#">
     <title>Avaluos Finisterra</title>
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" href="assets/images/favicon.ico">
-    <link rel="shortcut icon" href="assets/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="/assets/images/favicon.ico">
+    <link rel="shortcut icon" href="/assets/images/favicon.ico">
     <!-- Plugin -->
-    <link href="assets/css/plugin.css" rel="stylesheet">
+    <link href="/assets/css/plugin.css" rel="stylesheet">
     <!-- Custom Stylesheet -->
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="/assets/css/style.css" rel="stylesheet">
     <!-- Custom Responsive -->
-    <link href="assets/css/responsive.css" rel="stylesheet">
+    <link href="/assets/css/responsive.css" rel="stylesheet">
     <!-- place -->
 </head>

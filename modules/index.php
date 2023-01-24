@@ -2,7 +2,7 @@
 <div class="main-slider-section p-relative">
     <div class="main-slider">
         <div class="slide-item">
-            <img src="assets/images/banner-1.jpg" class="image-fit" alt="">
+            <img src="/assets/images/banner-1.jpg" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="slide-item">
-            <img src="assets/images/banner-bg.jpg" class="image-fit" alt="">
+            <img src="/assets/images/banner-bg.jpg" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
@@ -70,10 +70,10 @@
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-images p-relative mb-md-80">
-                    <img src="assets/images/about-img-1.jpg" class="img-fluid image-one" alt="">
-                    <img src="assets/images/about-icon-1.png" class="img-fluid icon-one" alt="">
-                    <img src="assets/images/about-img-2.jpg" class="img-fluid image-two" alt="">
-                    <img src="assets/images/about-icon-2.png" class="img-fluid icon-two" alt="">
+                    <img src="/assets/images/about-img-1.jpg" class="img-fluid image-one" alt="">
+                    <img src="/assets/images/about-icon-1.png" class="img-fluid icon-one" alt="">
+                    <img src="/assets/images/about-img-2.jpg" class="img-fluid image-two" alt="">
+                    <img src="/assets/images/about-icon-2.png" class="img-fluid icon-two" alt="">
                 </div>
             </div>
             <div class="col-lg-6 col-md-10">
@@ -138,7 +138,7 @@
             <div class="col-lg-6">
                 <div class="profit-chart-box">
                     <a href="index.html" class="chart-logo">
-                        <img src="assets/images/logo-icon.png" class="image-fit" alt="">
+                        <img src="/assets/images/logo-icon.png" class="image-fit" alt="">
                     </a>
                     <a href="#" class="profit-icon icon-ps-1">
                         <span class="icon">
@@ -254,7 +254,7 @@
     <div class="container-fluid no-padding">
         <div class="row no-gutters">
             <div class="col-lg-6">
-                <img src="assets/images/skillset.jpg" class="image-fit" alt="">
+                <img src="/assets/images/skillset.jpg" class="image-fit" alt="">
             </div>
             <div class="col-lg-6 bg-dark-blue section-padding">
                 <div class="section-header left-heading">
@@ -397,7 +397,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="faq-man p-relative">
-                    <img src="assets/images/faq-man.png" class="image-fit" alt="">
+                    <img src="/assets/images/faq-man.png" class="image-fit" alt="">
                 </div>
             </div>
         </div>
@@ -444,28 +444,28 @@
             <div class="col-12">
                 <div class="slider-gallery row arrow-layout">
                     <div class="col-12 slide-item">
-                        <img src="assets/images/gallery-1.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-1.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Agencia automotriz</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="assets/images/gallery-2.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-2.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Edificio de estacionamiento</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="assets/images/gallery-3.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-3.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Camiones y tractocamiones</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="assets/images/gallery-4.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-4.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Maquinaria de construcción</a></h3>
@@ -479,7 +479,7 @@
 <!-- End Gallery -->
 
 <!-- Start Testimonials -->
-<section class="normal-bg section-padding testimonials-sec" style="background-image: url('assets/images/map-bg.jpg');">
+<section class="normal-bg section-padding testimonials-sec" style="background-image: url('/assets/images/map-bg.jpg');">
     <div class="container">
         <div class="section-header">
             <div class="section-heading">
@@ -493,7 +493,7 @@
                     <div class="col-12 slide-item">
                         <div class="testimonial-box">
                             <div class="user-img">
-                                <img src="assets/images/testi-1.jpg" class="image-fit" alt="">
+                                <img src="/assets/images/testi-1.jpg" class="image-fit" alt="">
                             </div>
                             <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
@@ -506,7 +506,7 @@
                     <div class="col-12 slide-item">
                         <div class="testimonial-box">
                             <div class="user-img">
-                                <img src="assets/images/testi-2.jpg" class="image-fit" alt="">
+                                <img src="/assets/images/testi-2.jpg" class="image-fit" alt="">
                             </div>
                             <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
@@ -519,7 +519,7 @@
                     <div class="col-12 slide-item">
                         <div class="testimonial-box">
                             <div class="user-img">
-                                <img src="assets/images/testi-3.jpg" class="image-fit" alt="">
+                                <img src="/assets/images/testi-3.jpg" class="image-fit" alt="">
                             </div>
                             <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
@@ -532,7 +532,7 @@
                     <div class="col-12 slide-item">
                         <div class="testimonial-box">
                             <div class="user-img">
-                                <img src="assets/images/testi-3.jpg" class="image-fit" alt="">
+                                <img src="/assets/images/testi-3.jpg" class="image-fit" alt="">
                             </div>
                             <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis

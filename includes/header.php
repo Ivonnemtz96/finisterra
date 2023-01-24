@@ -60,7 +60,7 @@
                 <div class="col-lg-3 col-6">
                     <div class="logo">
                         <a href="/">
-                            <img src="assets/images/logo.png" class="image-fit" alt="">
+                            <img src="/assets/images/logo.png" class="image-fit" alt="">
                         </a>
                     </div>
                 </div>
