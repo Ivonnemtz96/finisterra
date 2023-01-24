@@ -3,12 +3,13 @@
     <!-- topbar -->
     <div class="topbar bg-dark-blue">
         <div class="container">
-            <div class="row">
+            <div hidden class="row">
                 <div class="col-lg-4 col-sm-6">
                     <ul class="custom-flex left-side">
                         <li>
                             <select class="custom-select form-control form-control-custom mb-0">
-                                <option>English</option>
+                                <option href="#"><a href="">English</a></option>
+                                <option><a href="#">Español</a></option>
                             </select>
                         </li>
                         <!-- <li>
@@ -115,16 +116,13 @@
                                     </ul>
                                 </li> -->
                                 <li class="menu-item">
-                                    <a href="about.html">About</a>
+                                    <a href="about.html">Inicio</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.html">About</a>
+                                    <a href="about.html">Nosotros</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.html">About</a>
-                                </li>
-                                <li class="menu-item">
-                                    <a href="about.html">About</a>
+                                    <a href="about.html">¿Qué bienes valuamos?</a>
                                 </li>
                                 <!-- <li class="menu-item menu-item-has-children">
                                     <a href="#">Services</a>
@@ -181,11 +179,11 @@
                                     </ul>
                                 </li> -->
                                 <li class="menu-item">
-                                    <a href="contact.html">Contact</a>
+                                    <a href="contact.html">Contacto</a>
                                 </li>
                             </ul>
                         </nav>
-                        <div class="nav-right">
+                        <!-- <div class="nav-right">
                             <ul class="custom-flex">
                                 <li>
                                     <a href="#">
@@ -203,7 +201,7 @@
                                     </a>
                                 </li>
                             </ul>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

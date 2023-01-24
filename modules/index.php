@@ -80,8 +80,8 @@
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
                         <h6 class="text-orange mb-xl-10 sub-heading"><span>Nosotros</span></h6>
-                        <h3 class="text-blue fw-700 title">Somos expertos en el área<span
-                                class="text-orange">.</span></h3>
+                        <h3 class="text-blue fw-700 title">Somos expertos en el área<span class="text-orange">.</span>
+                        </h3>
                         <p class="desc">
                             En la elaboración de nuestros avalúos, nos comprometemos a ayudar a nuestros clientes a
                             lograr sus objetivos ofreciendo servicios confiables de valuación para utilizarse en la
@@ -121,16 +121,18 @@
                         <h6 class="text-orange mb-xl-10 sub-heading"><span>Avalúos</span></h6>
                         <h3 class="text-blue fw-700 title">Atendemos cualquier tipo de Avalúos<span
                                 class="text-orange">.</span></h3>
-                        <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
+                        <p class="desc">
+                            Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier
+                            industria.
+                        </p>
                     </div>
                 </div>
                 <ul class="custom profit-list">
-                    <li>Kind business & shop profit share</li>
-                    <li>Solid solution with great intregation</li>
+                    <li>Contamos con la experiencia profesional</li>
+                    <li>El servicio a los clientes es nuestro principal objetivo</li>
                 </ul>
                 <a href="project-detail.html" class="theme-btn btn-orange">
-                    Case Study <i class="fal fa-plus"></i>
+                    Contactar <i class="fal fa-plus"></i>
                 </a>
             </div>
             <div class="col-lg-6">
@@ -208,9 +210,9 @@
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Visita al inmueble</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua nim ad minim veniam. </p>
+                    <h4 class="fw-600">Visita al inmueble</h4> <br>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua nim ad minim veniam. </p> -->
                     <span class="icon text-orange">
                         <i class="flaticon-statistics"></i>
                     </span>
@@ -220,9 +222,11 @@
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Análisis de mercado </h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua nim ad minim veniam. </p>
+                    <h4 class="fw-600">Análisis de mercado </h4><br>
+                    <!-- <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua nim ad minim veniam. 
+                    </p> -->
                     <span class="icon text-orange">
                         <i class="flaticon-market"></i>
                     </span>
@@ -233,8 +237,9 @@
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
                     <h4 class="fw-600">Entrega del documento impreso</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua nim ad minim veniam. </p>
+                    <!-- <p>
+                        Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
+                    </p> -->
                     <span class="icon text-orange">
                         <i class="flaticon-statistics"></i>
                     </span>
@@ -313,15 +318,14 @@
                     <div class="section-header left-heading">
                         <div class="section-heading">
                             <h6 class="text-orange mb-xl-10 sub-heading"><span>FAQ</span></h6>
-                            <h3 class="fw-700 title">You have to know before start everything<span
-                                    class="text-orange">.</span></h3>
+                            <h3 class="fw-700 title">Algunas preguntas frecuentes<span class="text-orange">.</span></h3>
                         </div>
                     </div>
                     <div id="accordion" class="custom-faqs">
                         <div class="card">
                             <div class="card-header">
                                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
-                                    How to import my whole data?
+                                    ¿Qué es una unidad de valuación?
                                     <span>
                                         <i class="fal fa-arrow-down"></i>
                                     </span>
@@ -329,17 +333,25 @@
                             </div>
                             <div id="collapseOne" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco lab oris nisi ut aliquip ex ea commodo consequat. Duis aute
-                                    irure dolor in reprehenderit in voluptate velit esse cillum.
+                                    <ul>
+                                        <li>Es una empresa que realiza avalúos, la cual integra a peritos,
+                                            controladores, directivos y personal administrativo encargado de dar
+                                            cumplimiento a las normas valuación aplicables.</li>
+                                        <li>Las Unidades de Valuación son las encargadas a nivel nacional de tasar o
+                                            colocar un valor “precio” a un bien.</li>
+                                        <li>En México existen aproximadamente 105 Unidades de Valuación.</li>
+                                        <li>Las Unidades de Valuación están sujetas a estrictas normas y códigos éticas,
+                                            regulatorias, son entes autónomos regulados por la Sociedad Hipotecaria
+                                            Federal, deben ser imparciales y libres de presiones para establecer un
+                                            valor./li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link" data-toggle="collapse" href="#collapseTwo">
-                                    How to import my whole data?
+                                    ¿En qué sectores nos especializamos?
                                     <span>
                                         <i class="fal fa-arrow-down"></i>
                                     </span>
@@ -347,17 +359,21 @@
                             </div>
                             <div id="collapseTwo" class="collapse show" data-parent="#accordion">
                                 <div class="card-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco lab oris nisi ut aliquip ex ea commodo consequat. Duis aute
-                                    irure dolor in reprehenderit in voluptate velit esse cillum.
+                                    <ul>
+                                        <li>Especialidad Inmobiliaria Residencial </li>
+                                        <li>Especialidad Inmobiliaria Comercial </li>
+                                        <li>Especialidad Inmobiliaria Industrial. </li>
+                                        <li>Especialidad de Hoteles </li>
+                                        <li>Especialidad Agropecuaria </li>
+                                        <li>Especialidad Industria</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="card">
                             <div class="card-header">
                                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    How to import my whole data?
+                                    ¿Para qué sectores se elabora un dictamen técnico?
                                     <span>
                                         <i class="fal fa-arrow-down"></i>
                                     </span>
@@ -365,28 +381,14 @@
                             </div>
                             <div id="collapseThree" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco lab oris nisi ut aliquip ex ea commodo consequat. Duis aute
-                                    irure dolor in reprehenderit in voluptate velit esse cillum.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header">
-                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
-                                    How to import my whole data?
-                                    <span>
-                                        <i class="fal fa-arrow-down"></i>
-                                    </span>
-                                </a>
-                            </div>
-                            <div id="collapseFour" class="collapse" data-parent="#accordion">
-                                <div class="card-body">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                                    exercitation ullamco lab oris nisi ut aliquip ex ea commodo consequat. Duis aute
-                                    irure dolor in reprehenderit in voluptate velit esse cillum.
+                                    <ul>
+                                        <li>Inmobiliario</li>
+                                        <li>Agropecuario</li>
+                                        <li>Agricultura y Fruticultura</li>
+                                        <li>Ganadería</li>
+                                        <li>Acuacultura y pesca </li>
+                                        <li>Forestales y silvicultura</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
@@ -412,18 +414,20 @@
                         <div class="col-lg-6 mb-md-80">
                             <div class="section-header left-heading pb-0">
                                 <div class="section-heading">
-                                    <h6 class="text-orange mb-xl-10 sub-heading"><span>Get A Quote</span></h6>
-                                    <h3 class="fw-700 title text-custom-white">Get a free consultancy right now<span
-                                            class="text-orange">.</span></h3>
+                                    <h6 class="text-orange mb-xl-10 sub-heading"><span>Solicita tu presupuesto</span>
+                                    </h6>
+                                    <h3 class="fw-700 title text-custom-white">Contáctanos o solicita tu presupuesto con
+                                        nosotros<span class="text-orange">.</span></h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <p class="text-custom-white">We help you see the world differently, discover opportunities
-                                you may never have imagined.</p>
-                            <a href="#" class="text-custom-white contact-no">
+                            <p class="text-custom-white">
+                                Déjanos tus datos y pronto nos pondremos en contacto contigo o márcanos al:
+                            </p>
+                            <a href="tel:6241555762" class="text-custom-white contact-no">
                                 <i class="fal fa-phone text-orange"></i>
-                                +989 876 765 65 4
+                                624 155 5762
                             </a>
                         </div>
                     </div>
@@ -442,29 +446,29 @@
                     <div class="col-12 slide-item">
                         <img src="assets/images/gallery-1.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Consultancy</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Miranda halim group consultancy</a></h3>
+                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <h3 class="fw-600"><a href="project-detail.html">Agencia automotriz</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="assets/images/gallery-2.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Consultancy</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Miranda halim group consultancy</a></h3>
+                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <h3 class="fw-600"><a href="project-detail.html">Edificio de estacionamiento</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="assets/images/gallery-3.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Consultancy</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Miranda halim group consultancy</a></h3>
+                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <h3 class="fw-600"><a href="project-detail.html">Camiones y tractocamiones</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="assets/images/gallery-4.jpg" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Consultancy</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Miranda halim group consultancy</a></h3>
+                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <h3 class="fw-600"><a href="project-detail.html">Maquinaria de construcción</a></h3>
                         </div>
                     </div>
                 </div>
@@ -473,75 +477,14 @@
     </div>
 </section>
 <!-- End Gallery -->
-<!-- Start brand slider -->
-<div class="section-padding bg-light-white">
-    <div class="container-fluid">
-        <div class="row justify-content-center">
-            <div class="col-md-10">
-                <div class="brand-slider row">
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-1.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-2.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-3.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-4.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-5.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-1.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-2.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-3.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-4.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                    <div class="slide-item col-12">
-                        <a href="#" class="brand-box">
-                            <img src="assets/images/brand-5.png" class="image-fit" alt="">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- End brand slider -->
+
 <!-- Start Testimonials -->
 <section class="normal-bg section-padding testimonials-sec" style="background-image: url('assets/images/map-bg.jpg');">
     <div class="container">
         <div class="section-header">
             <div class="section-heading">
-                <h6 class="text-orange mb-xl-10 sub-heading"><span>Testimonials</span></h6>
-                <h3 class="fw-700 title">Clients feedbacks<span class="text-orange">.</span></h3>
+                <h6 class="text-orange mb-xl-10 sub-heading"><span>Testimonios</span></h6>
+                <h3 class="fw-700 title">Opiniones de nuestros clientes<span class="text-orange">.</span></h3>
             </div>
         </div>
         <div class="row">
@@ -556,8 +499,8 @@
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
                                 nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
                                 aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Miranda H.Halim</a></h4>
-                            <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p>
+                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 1</a></h4>
+                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
                         </div>
                     </div>
                     <div class="col-12 slide-item">
@@ -569,8 +512,8 @@
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
                                 nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
                                 aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Miranda H.Halim</a></h4>
-                            <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p>
+                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 2</a></h4>
+                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
                         </div>
                     </div>
                     <div class="col-12 slide-item">
@@ -582,8 +525,8 @@
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
                                 nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
                                 aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Miranda H.Halim</a></h4>
-                            <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p>
+                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 3</a></h4>
+                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
                         </div>
                     </div>
                     <div class="col-12 slide-item">
@@ -595,8 +538,8 @@
                                 tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
                                 nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
                                 aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Miranda H.Halim</a></h4>
-                            <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p>
+                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 4</a></h4>
+                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
                         </div>
                     </div>
                 </div>
