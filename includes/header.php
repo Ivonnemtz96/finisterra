@@ -59,7 +59,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-3 col-6">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="/">
                             <img src="assets/images/logo.png" class="image-fit" alt="">
                         </a>
                     </div>
@@ -68,7 +68,7 @@
                     <div class="right-side">
                         <ul class="custom-flex">
                             <li>
-                                <a href="#" class="text-blue">
+                                <a href="mailto:info@finisterraappraisals.com" class="text-blue">
                                     <i class="fal fa-envelope text-orange"></i>
                                     info@finisterraappraisals.com
                                 </a>
@@ -80,7 +80,7 @@
                                 </a>
                             </li>
                         </ul>
-                        <a href="contact.html" class="theme-btn btn-orange">Solicitar presupuesto<i class="fal fa-plus"></i></a>
+                        <a href="/contact" class="theme-btn btn-orange">Solicitar presupuesto<i class="fal fa-plus"></i></a>
                     </div>
                     <div class="hamburger-btn">
                         <div class="menu-btn">
@@ -101,85 +101,18 @@
                     <div class="main-nav">
                         <nav>
                             <ul class="custom-flex main-menu">
-                                <!-- <li class="menu-item menu-item-has-children">
-                                    <a href="#">Home</a>
-                                    <ul class="custom sub-menu">
-                                        <li class="menu-item">
-                                            <a href="index.html">Homepage 1</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="homepage-2.html">Homepage 2</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="homepage-3.html">Homepage 3</a>
-                                        </li>
-                                    </ul>
-                                </li> -->
                                 <li class="menu-item">
-                                    <a href="about.html">Inicio</a>
+                                    <a href="/">Inicio</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.html">Nosotros</a>
+                                    <a href="/#nosotros">Nosotros</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="about.html">¿Qué bienes valuamos?</a>
+                                    <a href="/bienes">¿Qué bienes valuamos?</a>
                                 </li>
-                                <!-- <li class="menu-item menu-item-has-children">
-                                    <a href="#">Services</a>
-                                    <ul class="custom sub-menu">
-                                        <li class="menu-item">
-                                            <a href="service-1.html">Service 1</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="service-2.html">Service 2</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="service-detail.html">Service Detail</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children">
-                                    <a href="#">Pages</a>
-                                    <ul class="custom sub-menu">
-                                        <li class="menu-item">
-                                            <a href="shop.html">Shop</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="shop-detail.html">Shop Detail</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="portfolio-1.html">Portfolio 1</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="portfolio-2.html">Portfolio 2</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="project-detail.html">Project Detail</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="team.html">Team</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="careers.html">Careers</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="menu-item menu-item-has-children">
-                                    <a href="#">News</a>
-                                    <ul class="custom sub-menu">
-                                        <li class="menu-item">
-                                            <a href="news-grid.html">News Grid</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="news-standard.html">News Standard</a>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="news-detail.html">News Detail</a>
-                                        </li>
-                                    </ul>
-                                </li> -->
+                                
                                 <li class="menu-item">
-                                    <a href="contact.html">Contacto</a>
+                                    <a href="/contacto">Contacto</a>
                                 </li>
                             </ul>
                         </nav>
