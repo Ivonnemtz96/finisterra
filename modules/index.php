@@ -11,10 +11,10 @@
                                 <a href="#" class="video-btn">
                                     <i class="fas fa-play"></i>
                                 </a>
-                                <h1 class="text-custom-white fw-600 heading-title">Prosfer with a good planning and
-                                    assets.</h1>
-                                <p class="no-margin text-custom-white">We seamlessly merge two key components –
-                                    economics & informatio</p>
+                                <h1 class="text-custom-white fw-600 heading-title">Expertos en Valuación</h1>
+                                <p class="no-margin text-custom-white">
+                                    Conoce el Valor Real de una Propiedad y estima un precio justo para su Venta
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -31,10 +31,13 @@
                                 <a href="#" class="video-btn">
                                     <i class="fas fa-play"></i>
                                 </a>
-                                <h2 class="text-custom-white fw-600 heading-title">Prosfer with a good planning and
-                                    assets.</h2>
-                                <p class="no-margin text-custom-white">We seamlessly merge two key components –
-                                    economics & informatio</p>
+                                <h2 class="text-custom-white fw-600 heading-title">
+                                    Soluciones Profesionales
+
+                                </h2>
+                                <p class="no-margin text-custom-white">
+                                    Avalúos profesionales y certicados con validex oficial
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -48,12 +51,12 @@
             <div class="col-lg-7">
                 <div class="main-slider-nav">
                     <div class="slide-item">
-                        <h4 class="fw-600 mb-xl-10">Sustainability and strategy</h4>
-                        <p class="no-margin fw-500">Marge with our great team</p>
+                        <h4 class="fw-600 mb-xl-10">Inmuebles</h4>
+                        <p class="no-margin fw-500">Conoce el valor de un inmueble</p>
                     </div>
                     <div class="slide-item">
-                        <h4 class="fw-600 mb-xl-10">Digital planning with team</h4>
-                        <p class="no-margin fw-500">Get an amazing experience</p>
+                        <h4 class="fw-600 mb-xl-10">Avalúos Compra Venta</h4>
+                        <p class="no-margin fw-500">Avalúos para compra ventas</p>
                     </div>
                 </div>
             </div>
@@ -76,22 +79,31 @@
             <div class="col-lg-6 col-md-10">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>About Us</span></h6>
-                        <h3 class="text-blue fw-700 title">Core level values and amazing team<span
+                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Nosotros</span></h6>
+                        <h3 class="text-blue fw-700 title">Somos expertos en el área<span
                                 class="text-orange">.</span></h3>
-                        <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
+                        <p class="desc">
+                            En la elaboración de nuestros avalúos, nos comprometemos a ayudar a nuestros clientes a
+                            lograr sus objetivos ofreciendo servicios confiables de valuación para utilizarse en la
+                            óptima toma de decisiones, comerciales o financieras con el mejor respaldo técnico en el
+                            menor tiempo posible.
+                            Entendemos la metodología y el análisis necesarios donde se requieren habilidades avanzadas
+                            para realizar todo tipo de valoraciones.
+                        </p>
                     </div>
                 </div>
                 <div class="row align-items-center">
                     <div class="col-4 text-center">
-                        <span class="count">82</span><span class="text-orange fs-16">%</span>
+                        <span class="count">100</span><span class="text-orange fs-16">%</span>
                     </div>
                     <div class="col-8">
-                        <h4 class="mb-xl-10 fw-600">Our mission and vision<span class="text-orange">.</span></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h4 class="mb-xl-10 fw-600">Misión<span class="text-orange">.</span></h4>
+                        <p>
+                            Nos esforzamos cada día en ofrecer a nuestros clientes un excelente servicio de valuación,
+                            por eso seguimos rigurosamente normas y procedimientos nacionales e internacionales de
+                            valuación, así como un código de prácticas interno y una constante renovación en nuestros
+                            sistemas tecnológicos.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -106,8 +118,8 @@
             <div class="col-lg-6 mb-md-80">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Profit Share</span></h6>
-                        <h3 class="text-blue fw-700 title">Any kind business profit share<span
+                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Avalúos</span></h6>
+                        <h3 class="text-blue fw-700 title">Atendemos cualquier tipo de Avalúos<span
                                 class="text-orange">.</span></h3>
                         <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
                             incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
@@ -130,49 +142,49 @@
                         <span class="icon">
                             <i class="flaticon-receipt"></i>
                         </span>
-                        <span class="icon-text">Finance</span>
+                        <span class="icon-text">Inmobiliario</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-2">
                         <span class="icon">
                             <i class="flaticon-businessman"></i>
                         </span>
-                        <span class="icon-text">Consultancy</span>
+                        <span class="icon-text">Hospital</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-3">
                         <span class="icon">
                             <i class="flaticon-tax"></i>
                         </span>
-                        <span class="icon-text">Tax</span>
+                        <span class="icon-text">Escuela</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-4">
                         <span class="icon">
                             <i class="flaticon-label"></i>
                         </span>
-                        <span class="icon-text">Profit Share</span>
+                        <span class="icon-text">Bodega</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-5">
                         <span class="icon">
                             <i class="flaticon-payment-method"></i>
                         </span>
-                        <span class="icon-text">Banking</span>
+                        <span class="icon-text">Hoteles</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-6">
                         <span class="icon">
                             <i class="flaticon-presentation"></i>
                         </span>
-                        <span class="icon-text">Growth</span>
+                        <span class="icon-text">Obra de arte</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-7">
                         <span class="icon">
                             <i class="flaticon-suitcase"></i>
                         </span>
-                        <span class="icon-text">Policy</span>
+                        <span class="icon-text">Joyas</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-8">
                         <span class="icon">
                             <i class="flaticon-credit"></i>
                         </span>
-                        <span class="icon-text">Home Loan</span>
+                        <span class="icon-text">Aeronave</span>
                     </a>
                 </div>
             </div>
@@ -185,8 +197,8 @@
     <div class="container">
         <div class="section-header">
             <div class="section-heading">
-                <h6 class="text-orange mb-xl-10 sub-heading"><span>Process</span></h6>
-                <h3 class="text-blue fw-700 title">How your business going witn us<span class="text-orange">.</span>
+                <h6 class="text-orange mb-xl-10 sub-heading"><span>Proceso</span></h6>
+                <h3 class="text-blue fw-700 title">Expertos valorando tus inmuebles<span class="text-orange">.</span>
                 </h3>
             </div>
         </div>
@@ -194,9 +206,9 @@
         <div class="row">
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
-                    <a href="#" class="text-orange fw-600 fs-14">Read more <i
-                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a>
-                    <h4 class="fw-600">Get a free trail option</h4>
+                    <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
+                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
+                    <h4 class="fw-600">Visita al inmueble</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. </p>
                     <span class="icon text-orange">
@@ -206,9 +218,9 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
-                    <a href="#" class="text-orange fw-600 fs-14">Read more <i
-                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a>
-                    <h4 class="fw-600">More solid research</h4>
+                    <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
+                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
+                    <h4 class="fw-600">Análisis de mercado </h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. </p>
                     <span class="icon text-orange">
@@ -218,9 +230,9 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
-                    <a href="#" class="text-orange fw-600 fs-14">Read more <i
-                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a>
-                    <h4 class="fw-600">Save your finance</h4>
+                    <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
+                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
+                    <h4 class="fw-600">Entrega del documento impreso</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. </p>
                     <span class="icon text-orange">
