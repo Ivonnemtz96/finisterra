@@ -2,15 +2,15 @@
 <div class="main-slider-section p-relative">
     <div class="main-slider">
         <div class="slide-item">
-            <img src="/assets/images/banner-1.jpg" class="image-fit" alt="">
+            <img src="/assets/images/banner-1.jpg?=1" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-7">
                             <div class="banner-content">
-                                <a href="#" class="video-btn">
+                                <!-- <a href="#" class="video-btn">
                                     <i class="fas fa-play"></i>
-                                </a>
+                                </a> -->
                                 <h1 class="text-custom-white fw-600 heading-title">Expertos en Valuación</h1>
                                 <p class="no-margin text-custom-white">
                                     Conoce el Valor Real de una Propiedad y estima un precio justo para su Venta
@@ -22,15 +22,15 @@
             </div>
         </div>
         <div class="slide-item">
-            <img src="/assets/images/banner-bg.jpg" class="image-fit" alt="">
+            <img src="/assets/images/banner-bg.jpg?=1" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-6 col-lg-7">
                             <div class="banner-content">
-                                <a href="#" class="video-btn">
+                                <!-- <a href="#" class="video-btn">
                                     <i class="fas fa-play"></i>
-                                </a>
+                                </a> -->
                                 <h2 class="text-custom-white fw-600 heading-title">
                                     Soluciones Profesionales
 
@@ -66,13 +66,13 @@
 <!-- End Slider -->
 <!-- Start About -->
 <section class="section-padding about-sec count-section">
-    <div class="container">
+    <div class="container" id="nosotros">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-images p-relative mb-md-80">
-                    <img src="/assets/images/about-img-1.jpg" class="img-fluid image-one" alt="">
+                    <img src="/assets/images/about-img-1.jpg?=1" class="img-fluid image-one" alt="">
                     <img src="/assets/images/about-icon-1.png" class="img-fluid icon-one" alt="">
-                    <img src="/assets/images/about-img-2.jpg" class="img-fluid image-two" alt="">
+                    <img src="/assets/images/about-img-2.jpg?=2" class="img-fluid image-two" alt="">
                     <img src="/assets/images/about-icon-2.png" class="img-fluid icon-two" alt="">
                 </div>
             </div>
@@ -138,7 +138,7 @@
             <div class="col-lg-6">
                 <div class="profit-chart-box">
                     <a href="index.html" class="chart-logo">
-                        <img src="/assets/images/logo-icon.png" class="image-fit" alt="">
+                        <img src="/assets/images/logo-icon.jpg" class="image-fit" alt="">
                     </a>
                     <a href="#" class="profit-icon icon-ps-1">
                         <span class="icon">
@@ -254,53 +254,55 @@
     <div class="container-fluid no-padding">
         <div class="row no-gutters">
             <div class="col-lg-6">
-                <img src="/assets/images/skillset.jpg" class="image-fit" alt="">
+                <img src="/assets/images/skillset.jpg?=1" class="image-fit" alt="">
             </div>
             <div class="col-lg-6 bg-dark-blue section-padding">
                 <div class="section-header left-heading">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Our Skillset</span></h6>
-                        <h3 class="text-custom-white fw-700 title">Get amazing experience with our cool team<span
-                                class="text-orange">.</span></h3>
-                        <p class="desc text-custom-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-                            do eiusmod tempor incididunt ut labore et dolore magna aliqua enim ad minim veniam.</p>
+                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Nuestros conocimientos</span></h6>
+                        <h3 class="text-custom-white fw-700 title">Trabaja de una manera increíble con nuestro
+                            equipo<span class="text-orange">.</span></h3>
+                        <p class="desc text-custom-white">
+                            Nos comprometemos con el futuro de nuestros clientes, ayudándolos a anticiparse y a
+                            enfrentar sus retos y oportunidades con certeza y seguridad.
+                        </p>
                     </div>
                 </div>
                 <div class="skill-progress-bar-sec">
                     <div class="skill-progress-bar mb-xl-30">
                         <div class="progressbar-wrap">
-                            <div class="progressbar" data-width="72"></div>
+                            <div class="progressbar" data-width="100"></div>
                         </div>
                         <div class="progressbar-text">
-                            <p class="text-custom-white">Digital content create</p>
-                            <p class="text-custom-white">72%</p>
+                            <p class="text-custom-white">Ética profesional</p>
+                            <p class="text-custom-white">100%</p>
                         </div>
                     </div>
                     <div class="skill-progress-bar mb-xl-30">
                         <div class="progressbar-wrap">
-                            <div class="progressbar" data-width="80"></div>
+                            <div class="progressbar" data-width="100"></div>
                         </div>
                         <div class="progressbar-text">
-                            <p class="text-custom-white">UI/UX Designing</p>
-                            <p class="text-custom-white">80%</p>
+                            <p class="text-custom-white">Servicios encaminados a elevar la productividad</p>
+                            <p class="text-custom-white">100%</p>
                         </div>
                     </div>
                     <div class="skill-progress-bar mb-xl-30">
                         <div class="progressbar-wrap">
-                            <div class="progressbar" data-width="90"></div>
+                            <div class="progressbar" data-width="100"></div>
                         </div>
                         <div class="progressbar-text">
-                            <p class="text-custom-white">Digital consultancy</p>
-                            <p class="text-custom-white">90%</p>
+                            <p class="text-custom-white">Servicio de Calidad</p>
+                            <p class="text-custom-white">100%</p>
                         </div>
                     </div>
                     <div class="skill-progress-bar">
                         <div class="progressbar-wrap">
-                            <div class="progressbar" data-width="98"></div>
+                            <div class="progressbar" data-width="100"></div>
                         </div>
                         <div class="progressbar-text">
-                            <p class="text-custom-white">Youtube video making</p>
-                            <p class="text-custom-white">98%</p>
+                            <p class="text-custom-white">Trabajo en Equipo</p>
+                            <p class="text-custom-white">100%</p>
                         </div>
                     </div>
                 </div>
@@ -397,7 +399,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="faq-man p-relative">
-                    <img src="/assets/images/faq-man.png" class="image-fit" alt="">
+                    <img src="/assets/images/faq-man.jpg" class="image-fit" alt="">
                 </div>
             </div>
         </div>
@@ -444,28 +446,28 @@
             <div class="col-12">
                 <div class="slider-gallery row arrow-layout">
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-1.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-1.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Agencia automotriz</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-2.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-2.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Edificio de estacionamiento</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-3.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-3.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Camiones y tractocamiones</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-4.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-4.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
                             <h3 class="fw-600"><a href="project-detail.html">Maquinaria de construcción</a></h3>
