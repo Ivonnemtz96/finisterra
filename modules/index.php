@@ -71,9 +71,9 @@
             <div class="col-lg-6">
                 <div class="about-images p-relative mb-md-80">
                     <img src="/assets/images/about-img-1.jpg?=1" class="img-fluid image-one" alt="">
-                    <img src="/assets/images/about-icon-1.png" class="img-fluid icon-one" alt="">
+                    <img src="/assets/images/about-icon-1.png?=1" class="img-fluid icon-one" alt="">
                     <img src="/assets/images/about-img-2.jpg?=2" class="img-fluid image-two" alt="">
-                    <img src="/assets/images/about-icon-2.png" class="img-fluid icon-two" alt="">
+                    <img src="/assets/images/about-icon-2.png?=1" class="img-fluid icon-two" alt="">
                 </div>
             </div>
             <div class="col-lg-6 col-md-10">
@@ -142,49 +142,49 @@
                     </a>
                     <a href="#" class="profit-icon icon-ps-1">
                         <span class="icon">
-                            <i class="flaticon-receipt"></i>
+                            <img src="/assets/images/inmobiliario.png" alt="">
                         </span>
                         <span class="icon-text">Inmobiliario</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-2">
                         <span class="icon">
-                            <i class="flaticon-businessman"></i>
+                        <img src="/assets/images/clinica.png" alt="">
                         </span>
                         <span class="icon-text">Hospital</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-3">
                         <span class="icon">
-                            <i class="flaticon-tax"></i>
+                            <img src="/assets/images/escuela.png" alt="">
                         </span>
                         <span class="icon-text">Escuela</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-4">
                         <span class="icon">
-                            <i class="flaticon-label"></i>
+                            <img src="/assets/images/bodega.png" alt="">
                         </span>
                         <span class="icon-text">Bodega</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-5">
                         <span class="icon">
-                            <i class="flaticon-payment-method"></i>
+                            <img src="/assets/images/hoteles.png" alt="">
                         </span>
                         <span class="icon-text">Hoteles</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-6">
                         <span class="icon">
-                            <i class="flaticon-presentation"></i>
+                            <img src="/assets/images/arte.png" alt="">
                         </span>
                         <span class="icon-text">Obra de arte</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-7">
                         <span class="icon">
-                            <i class="flaticon-suitcase"></i>
+                            <img src="/assets/images/joyas.png" alt="">
                         </span>
                         <span class="icon-text">Joyas</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-8">
                         <span class="icon">
-                            <i class="flaticon-credit"></i>
+                            <img src="/assets/images/aeronave.png" alt="">
                         </span>
                         <span class="icon-text">Aeronave</span>
                     </a>
@@ -214,7 +214,7 @@
                     <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. </p> -->
                     <span class="icon text-orange">
-                        <i class="flaticon-statistics"></i>
+                        <img src="/assets/images/visita.png" alt="">
                     </span>
                 </div>
             </div>
@@ -228,7 +228,7 @@
                         labore et dolore magna aliqua nim ad minim veniam. 
                     </p> -->
                     <span class="icon text-orange">
-                        <i class="flaticon-market"></i>
+                        <img src="/assets/images/datos.png" alt="">
                     </span>
                 </div>
             </div>
@@ -241,7 +241,7 @@
                         Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
                     </p> -->
                     <span class="icon text-orange">
-                        <i class="flaticon-statistics"></i>
+                        <img src="/assets/images/documento.png" alt="">
                     </span>
                 </div>
             </div>

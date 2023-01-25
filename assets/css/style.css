@@ -231,7 +231,7 @@ a {
 }
 a:focus,
 a:hover {
-    color: #ff4815;
+    color: #b89632;
     text-decoration: none;
     transition: 0.5s;
 }
@@ -310,7 +310,7 @@ blockquote p {
     color: #3d322c;
 }
 blockquote cite {
-    color:  #ff4815;
+    color:  #b89632;
     font-size: 14px;
     font-style: normal;
     margin-bottom: 15px;
@@ -390,11 +390,11 @@ table th{
     opacity: 1;
 }
 .accent{
-    color:  #ff4815;
+    color:  #b89632;
     font-weight: 600;
 }
 .accent_bg{
-    background-color:  #ff4815;
+    background-color:  #b89632;
     color: #fff;
     padding: 0 6px;
     display: inline-block
@@ -530,8 +530,8 @@ table th{
 }
 .page-item:hover .page-link,
 .page-item.active .page-link{
-    background-color: #ff4815;
-    border-color: #ff4815;
+    background-color: #b89632;
+    border-color: #b89632;
     color: #fff;
 }
 /*======================
@@ -606,7 +606,7 @@ table th{
 }
 .form-control-custom:focus {
     border: 2px solid #efefef;
-    border-bottom: 2px solid #ff4815;
+    border-bottom: 2px solid #b89632;
     box-shadow: none;
 }
 .group-form{
@@ -627,7 +627,7 @@ table th{
 }
 .group-form .icon{
     font-size: 15px;
-    color: #ff4815;
+    color: #b89632;
     position: absolute;
     left: 40px;
     top: 50%;
@@ -727,11 +727,11 @@ label.custom-checkbox .checkmark {
 /* On mouse-over, add a grey background color */
 label.custom-checkbox:hover input ~ .checkmark {
     background-color: #fff;
-    border: 1px solid #ff4815;
+    border: 1px solid #b89632;
 }
 /* When the checkbox is checked, add a blue background */
 label.custom-checkbox input:checked ~ .checkmark {
-    border: 1px solid #ff4815;
+    border: 1px solid #b89632;
 }
 /* Create the checkmark/indicator (hidden when not checked) */
 .checkmark:after {
@@ -741,7 +741,7 @@ label.custom-checkbox input:checked ~ .checkmark {
     display: none;
     font-weight: 300;
     font-size: 12px;
-    color: #ff4815;
+    color: #b89632;
 }
 /* Show the checkmark when checked */
 label.custom-checkbox input:checked ~ .checkmark:after {
@@ -770,7 +770,7 @@ label.custom-checkbox .checkmark:after {
 }
 .theme-btn.btn-orange{
     color: #fff;
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .theme-btn.btn-orange:hover{
     background-color: #14212b;
@@ -789,7 +789,7 @@ label.custom-checkbox .checkmark:after {
     background-color: #ffffff;
 }
 .theme-btn.btn-white-orange:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .theme-btn.btn-red{
@@ -797,7 +797,7 @@ label.custom-checkbox .checkmark:after {
     background-color: #800000;
 }
 .theme-btn.btn-red:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .theme-btn.btn-border {
@@ -805,7 +805,7 @@ label.custom-checkbox .checkmark:after {
     padding: 13px 40px;
 }
 .theme-btn.btn-border:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .theme-btn.btn-light {
@@ -813,10 +813,10 @@ label.custom-checkbox .checkmark:after {
     color: #14212b;
 }
 .theme-btn.btn-light i{
-    color: #ff4815;
+    color: #b89632;
 }
 .theme-btn.btn-light:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .theme-btn.btn-light:hover i{
@@ -827,7 +827,7 @@ label.custom-checkbox .checkmark:after {
     color: #14212b;
 }
 .theme-btn.btn-light-2:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .theme-btn.btn-transparent{
@@ -842,9 +842,9 @@ label.custom-checkbox .checkmark:after {
     margin-right: 10px;
 }
 .theme-btn.btn-transparent:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
-    border-color: #ff4815;
+    border-color: #b89632;
 }
 .block-btn{
     display: inline-flex;
@@ -856,7 +856,7 @@ label.custom-checkbox .checkmark:after {
     font-size: 16px;
 }
 .block-btn:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 /*==================
@@ -875,7 +875,7 @@ label.custom-checkbox .checkmark:after {
     background-color: #14212b;
 }
 .bg-orange{
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .bg-light {
     background-color: #fafafa;
@@ -891,7 +891,7 @@ label.custom-checkbox .checkmark:after {
     color: #adbecc;
 }
 .text-orange{
-    color: #ff4815;
+    color: #b89632;
 }
 .text-blue{
     color: #14212b;
@@ -954,14 +954,14 @@ label.custom-checkbox .checkmark:after {
     width: 100px;
 }
 .header .topbar .left-side>li .form-control-custom:after{
-    border-bottom-color: #ff4815;
-    border-right-color: #ff4815;
+    border-bottom-color: #b89632;
+    border-right-color: #b89632;
 }
 .header .topbar .left-side li .form-control-custom:focus{
     background-color: transparent;
 }
 .header .topbar .left-side li i{
-    color: #ff4815;
+    color: #b89632;
     margin-left: 5px;
 }
 .header .topbar .right-side{
@@ -1070,7 +1070,7 @@ label.custom-checkbox .checkmark:after {
     cursor: pointer;
 }
 .header .navigation .main-menu>.menu-item>a:hover{
-    color: #ff4815;
+    color: #b89632;
 }
 .menu-item-has-children>a>.arrow:after{
     display: inline-block;
@@ -1086,7 +1086,7 @@ label.custom-checkbox .checkmark:after {
     left: 0;
     right: 0;
     transform: translateY(-10px);
-    border-bottom: solid 2px #ff4815;
+    border-bottom: solid 2px #b89632;
     box-shadow: 0 2px 2px 1px rgba(0,0,0,.15);
     background: #fff;
     visibility: hidden;
@@ -1155,8 +1155,8 @@ label.custom-checkbox .checkmark:after {
 }
 .header .navigation .main-nav .nav-right ul li a:hover{
     color: #fff;
-    background-color: #ff4815;
-    border-color: #ff4815;
+    background-color: #b89632;
+    border-color: #b89632;
 }
 .header .body-overlay{
     position: fixed;
@@ -1276,14 +1276,14 @@ label.custom-checkbox .checkmark:after {
 }
 .main-slider-nav .slide-item.slick-current{
     background: #fff;
-    border-top: 4px solid #ff4815;
+    border-top: 4px solid #b89632;
 }
 .main-slider-nav .slide-item.slick-current p,
 .main-slider-nav .slide-item.slick-current h4{
     color: #14212b;
 }
 .main-slider-nav .slide-item.slick-current p:before{
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .main-slider-nav .slick-track{
     transform: none!important;
@@ -1294,7 +1294,7 @@ label.custom-checkbox .checkmark:after {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #ff4815;
+    background: #b89632;
     color: #fff;
     font-size: 20px;
     margin: 15px;
@@ -1367,7 +1367,7 @@ ul.profit-list li:before{
     align-items: center;
     justify-content: center;
     font-size: 12px;
-    color: #ff4815;
+    color: #b89632;
     position: relative;
     left: 0;
     margin-bottom: 0px;
@@ -1422,7 +1422,7 @@ ul.profit-list li:before{
 }
 .profit-chart-box .profit-icon:hover{
     color: #14212b;
-    border-color: #ff4815;
+    border-color: #b89632;
 }
 .profit-chart-box .profit-icon .icon{
     display: block;
@@ -1430,7 +1430,7 @@ ul.profit-list li:before{
     text-align: center;
     font-size: 32px;
     line-height: 1;
-    color: #ff4815;
+    color: #b89632;
 }
 .profit-chart-box .profit-icon .icon-text{
     flex-basis: 100%;
@@ -1522,7 +1522,7 @@ ul.profit-list li:before{
 }
 .skill-progress-bar .progressbar-wrap .progressbar{
     height: 10px;
-    background-color: #fe4816;
+    background-color: #b89632;
     transition: width 2s ease-in-out;
     width: 0;
 }
@@ -1573,7 +1573,7 @@ ul.profit-list li:before{
     position: relative;
     margin-top: -2px;
     margin-right: -13px;
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .custom-faqs .card-header .card-link span i{
@@ -1593,10 +1593,10 @@ ul.profit-list li:before{
 }
 .custom-faqs .card-header .card-link.collapsed span{
     background: #fff;
-    color: #fe4816;
+    color: #b89632;
 }
 .custom-faqs .card-header .card-link:hover span{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .custom-faqs .collapse.show{
@@ -1613,7 +1613,7 @@ ul.profit-list li:before{
     content: '';
     width: 300px;
     height: 300px;
-    background: #ff4815;
+    background: #b89632;
     display: block;
     border-radius: 50%;
     position: absolute;
@@ -1631,7 +1631,7 @@ ul.profit-list li:before{
 }
 .quote-sec .quote-box:after{
     content: '';
-    background: #ff4815;
+    background: #b89632;
     display: block;
     width: calc(100% - 30px);
     height: 100%;
@@ -1661,7 +1661,7 @@ ul.profit-list li:before{
     position: absolute;
     background: #fff;
     width: calc(100% - 90px);
-    border-top: 4px solid #ff4815;
+    border-top: 4px solid #b89632;
     left: 45px;
     bottom: 30px;
     padding: 20px 25px;
@@ -1722,7 +1722,7 @@ ul.profit-list li:before{
     content: "\f061";
 }
 .arrow-layout .slick-arrow:hover:before{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 /*Brand*/
@@ -1760,7 +1760,7 @@ ul.profit-list li:before{
     margin-bottom: 25px;
 }
 .testimonials-sec .slick-center .testimonial-box{
-    border-color: #ff4815;
+    border-color: #b89632;
 }
 /*footer*/
 .footer .ft-logo{
@@ -1782,7 +1782,7 @@ ul.profit-list li:before{
     content: '';
     width: 0px;
     height: 2px;
-    background-color: #ff4815;
+    background-color: #b89632;
     transition: 0.3s all;
     position: absolute;
     left: 0;
@@ -1809,7 +1809,7 @@ ul.profit-list li:before{
 .footer .footer-widgets.newsletter button{
     height: 50px;
     width: 50px;
-    background: #ff4815;
+    background: #b89632;
     font-size: 16px;
     color: #fff;
     position: absolute;
@@ -1818,7 +1818,7 @@ ul.profit-list li:before{
     top: 0px;
 }
 .footer .footer-widgets.newsletter button:hover{
-    color: #ff4815;
+    color: #b89632;
     background-color: #fff;
 }
 .copyright{
@@ -1857,7 +1857,7 @@ ul.profit-list li:before{
     margin-left: 15px;
 }
 .copyright .ft-social li a:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 /*======================
@@ -1879,7 +1879,7 @@ ul.profit-list li:before{
 .mobile-header .mobile-header-wrap:before,
 .header-2 .navigation .main-nav:before{
     content: '';
-    background: #ff4815;
+    background: #b89632;
     display: block;
     width: calc(100% - 30px);
     height: 100%;
@@ -1958,7 +1958,7 @@ ul.profit-list li:before{
     content: '';
     height: 100%;
     width: 2px;
-    background: #ff4815;
+    background: #b89632;
     display: block;
     position: absolute;
     top: 0;
@@ -2111,7 +2111,7 @@ ul.profit-list li:before{
 }
 .skill-set-bx:after{
     content: '';
-    background-color: #ff4815;
+    background-color: #b89632;
     opacity: 1;
     position: absolute;
     top: 0;
@@ -2296,7 +2296,7 @@ ul.profit-list li:before{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #ff4815;
+    background: #b89632;
     flex-wrap: wrap;
     padding: 12px 0;
 }
@@ -2362,7 +2362,7 @@ ul.profit-list li:before{
     background-color: #fff;
 }
 .copyright.style-2 .ft-social li a:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 /*======================
@@ -2718,7 +2718,7 @@ ul.profit-list li:before{
     background-color: #800000;
 }
 .blog-style-1.style-2 .post-date.bg-orange{
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .blog-style-1.style-2 .post-overlay{
     width: 100%;
@@ -2803,7 +2803,7 @@ ul.profit-list li:before{
     position: relative;
 }
 .subheader .subheader-content .breadcrumb li a:hover{
-    color: #ff4815;
+    color: #b89632;
 }
 .subheader .subheader-content .breadcrumb li a:after{
     content: '';
@@ -2899,7 +2899,7 @@ ul.profit-list li:before{
 }
 .custom-progress-bar .progressbar-wrap .progressbar {
     height: 12px;
-    background-color: #ff4815;
+    background-color: #b89632;
     transition: width 2s ease-in-out;
     width: 0;
 }
@@ -2913,7 +2913,7 @@ ul.profit-list li:before{
     padding-bottom: 120px;
 }
 .about-style-2.style-2 .about-head-text:after{
-    background-color: #ff4815
+    background-color: #b89632
 }
 .service-slider .service-style-1.withouticon{
     margin-bottom: 5px;
@@ -2976,15 +2976,15 @@ ul.profit-list li:before{
     font-size: 20px;
 }
 .team-block-2 .team-social-media li a:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 /*======================
 7. Services
 ========================*/
 .choose-us-box.style-2:hover{
-    border-top-color: #ff4815;
-    box-shadow: 0px 1px 10px 0px #ff481533;
+    border-top-color: #b89632;
+    box-shadow: 0px 1px 10px 0px #b8963233;
 }
 /*video-box-sec*/
 .video-box-sec .video-box{
@@ -3097,7 +3097,7 @@ ul.profit-list li:before{
 }
 .values-block .values-block-inner .icon{
     margin: 0 auto 30px;
-    background-color: #ff4815;
+    background-color: #b89632;
     width: 110px;
     height: 110px;
     display: flex;
@@ -3150,7 +3150,7 @@ ul.profit-list li:before{
     color: #14212b;
 }
 .custom-faqs.style-3 .card-header .card-link span{
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .custom-faqs.style-3 .collapse.show,
 .custom-faqs.style-3 .card-header .card-link{
@@ -3201,7 +3201,7 @@ ul.profit-list li:before{
     align-items: center;
     justify-content: center;
     font-size: 50px;
-    color: #ff4815;
+    color: #b89632;
 }
 .careers-table .table-striped tbody tr td h3{
     font-size: 26px;
@@ -3226,7 +3226,7 @@ ul.profit-list li:before{
 .post-standard .post-content .post-category li a{
     display: inline-flex;
     padding: 4px 30px;
-    background: #ff4815;
+    background: #b89632;
     color: #fff;
     font-weight: 500;
     margin-right: 10px;
@@ -3294,7 +3294,7 @@ ul.profit-list li:before{
     width: 80px;
     height: 80px;
     color: #fff;
-    background-color: #ff4815;
+    background-color: #b89632;
     justify-content: center;
     align-items: center;
     font-size: 16px;
@@ -3386,7 +3386,7 @@ ul.profit-list li:before{
     top: 0;
     height: 100%;
     width: 2px;
-    background-color: #ff4815;
+    background-color: #b89632;
     content: '';
 }
 .sidebar .widget.about-author-widget .author-box {
@@ -3410,7 +3410,7 @@ ul.profit-list li:before{
     color: #b3bed3;
 }
 .sidebar .widget.about-author-widget .author-box .social-icon li a:hover{
-    color: #ff4815;
+    color: #b89632;
 }
 .sidebar .widget.search-widget form {
     position: relative;
@@ -3435,7 +3435,7 @@ ul.profit-list li:before{
     width: 60px;
     height: 100%;
     z-index: 1;
-    background-color: #ff4815;
+    background-color: #b89632;
     font-size: 14px;
     transition: all 0.3s ease-out 0s;
     color: #fff;
@@ -3508,7 +3508,7 @@ ul.profit-list li:before{
     transition: all 0.3s ease-out 0s;
 }
 .sidebar .widget.categories-widget ul li a:hover {
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .sidebar .widget.categories-widget ul li a:hover span {
@@ -3530,7 +3530,7 @@ ul.profit-list li:before{
     justify-content: center;
 }
 .sidebar .widget.social-widget ul li a:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .sidebar .widget.twitter-feed-widget ul li {
@@ -3553,7 +3553,7 @@ ul.profit-list li:before{
     content: "\f099";
     font-family: Font Awesome\ 5 Brands;
     font-size: 14px;
-    color: #ff4815;
+    color: #b89632;
     display: block;
     background-color: transparent;
 }
@@ -3585,7 +3585,7 @@ ul.profit-list li:before{
     text-transform: uppercase;
     font-size: 13px;
     font-weight: 500;
-    background: #ff4815;
+    background: #b89632;
     margin-right: 7px;
     margin-bottom: 10px;
     color: #fff;
@@ -3604,7 +3604,7 @@ ul.profit-list li:before{
 .post-details .post-category li a{
     display: inline-flex;
     padding: 4px 30px;
-    background: #ff4815;
+    background: #b89632;
     color: #fff;
     font-weight: 500;
     margin-right: 10px;
@@ -3655,7 +3655,7 @@ ul.profit-list li:before{
 }
 .post-details .post-tags-media .post-tags .tags a:hover{
     color: #fff;
-    background-color: #ff4815;
+    background-color: #b89632;
 }
 .post-details .post-tags-media .post-social-media{
     text-align: right;
@@ -3671,7 +3671,7 @@ ul.profit-list li:before{
     display: inline-flex;
 }
 .post-details .post-tags-media .post-social-media ul>li>a:hover{
-    color: #ff4815;
+    color: #b89632;
 }
 .detail-post-navigation{
     margin-bottom: 40px;
@@ -3978,14 +3978,14 @@ ul.profit-list li:before{
     height: 40px;
     justify-content: center;
     align-items: center;
-    background: #ff4815;
+    background: #b89632;
     color: #fff;
     font-size: 16px;
     margin: 0 3px;
 }
 .shop-grid .shop-overlay .shop-action button:hover{
     background-color: #fff;
-    color: #ff4815;
+    color: #b89632;
 }
 .shop-grid .shop-caption{
     padding: 20px 0;
@@ -3997,7 +3997,7 @@ ul.profit-list li:before{
     margin-bottom: 7px;
 }
 .shop-price ins{
-    color: #ff4815;
+    color: #b89632;
     text-decoration: none;
     font-size: 16px;
     font-weight: 700;
@@ -4077,10 +4077,10 @@ ul.profit-list li:before{
     margin: 0;
     font-size: 15px;
     font-weight: 700;
-    color: #ff4815;
+    color: #b89632;
 }
 .range-slider span{
-    color: #ff4815;
+    color: #b89632;
     font-size: 20px;
     line-height: 1;
     margin-left: -4px;
@@ -4098,11 +4098,11 @@ ul.profit-list li:before{
 .ui-widget-header,
 .ui-slider-vertical .ui-slider-range-min,
 .ui-slider-horizontal .ui-slider-range-min {
-    background: #ff4815;
+    background: #b89632;
 }
 .ui-slider-vertical .ui-slider-handle,
 .ui-slider-horizontal .ui-slider-handle {
-    background: #ff4815;
+    background: #b89632;
     font-weight: normal;
     color: #454545;
     border-radius: 0;
@@ -4145,7 +4145,7 @@ ul.profit-list li:before{
     margin-bottom: 10px;
 }
 .shop-details .shop-pricing-sec .price ins{
-    color: #ff4815;
+    color: #b89632;
     text-decoration: none;
     font-size: 22px;
     font-weight: 700;
@@ -4246,7 +4246,7 @@ ul.profit-list li:before{
     color: #b3c3d0;
 }
 .stars span.active{
-    color: #ff4815;
+    color: #b89632;
 }
 /*shop tabs*/
 .shop-tabs .nav-tabs{
@@ -4268,8 +4268,8 @@ ul.profit-list li:before{
 .shop-tabs .nav-tabs>.nav-item>.nav-link:hover,
 .shop-tabs .nav-tabs>.nav-item>.nav-link.active{
     background: transparent;
-    color: #ff4815;
-    border-bottom-color: #ff4815;
+    color: #b89632;
+    border-bottom-color: #b89632;
 }
 .shop-tabs .tab-inner{
     background-color: #fff;
@@ -4322,7 +4322,7 @@ ul.profit-list li:before{
 }
 .detail-post-navigation.style-2 .prev-post span,
 .detail-post-navigation.style-2 .next-post span{
-    color: #ff4815;
+    color: #b89632;
 }
 .detail-post-navigation.style-2 .prev-post>.double-lines>span,
 .detail-post-navigation.style-2 .next-post>.double-lines>span{
@@ -4374,7 +4374,7 @@ ul.profit-list li:before{
     opacity: 0;
 }
 .sidebar.service-sidebar .service-category>li>a:hover{
-    background-color: #ff4815;
+    background-color: #b89632;
     color: #fff;
 }
 .sidebar.service-sidebar .service-category>li>a:hover>i{
@@ -4391,7 +4391,7 @@ ul.profit-list li:before{
 }
 .sidebar.service-sidebar .service-docs>li>a>i{
     margin-right: 20px;
-    color: #ff4815;
+    color: #b89632;
 }
 .sidebar.service-sidebar .service-quote{
     border: 2px solid #f7f7f7;
@@ -4460,9 +4460,9 @@ ul.profit-list li:before{
   border-radius: 0px;
   text-align: center;
   line-height: 36px;
-  border:  #ff4815 solid 1px;
+  border:  #b89632 solid 1px;
   color: #ffffff;
-  background:  #ff4815;
+  background:  #b89632;
   transition-duration: 0.3s;
   font-size: 22px;
   box-shadow: rgba(0, 0, 0, 0.05) 0 0 10px;

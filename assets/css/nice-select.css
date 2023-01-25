@@ -129,7 +129,7 @@
     transition: all 0.2s;
     border-bottom: 1px solid #eee; }
     .nice-select .option:hover, .nice-select .option.focus{
-          background-color: #ff4815;
+          background-color: #b89632;
     color: #fff;
     font-weight: 500; }
 
