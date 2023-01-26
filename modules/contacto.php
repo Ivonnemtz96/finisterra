@@ -66,7 +66,7 @@
     <div class="container">
         <div class="col-12">
             <div class="contact-form">
-                <form action="#" method="POST">
+                <form action="/php/contact.php" method="POST">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group group-form">
@@ -146,6 +146,12 @@
                                 </span>
                             </div>
                         </div>
+
+                            <div class="col-12 col-md-12 text-center mb-5 mt-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                            </div>
+
+                        
                         <div class="col-12 text-center">
                             <p style="color: #7b7b7b;">
                                 Avaluos Finisterra necesita la información de contacto que nos proporcionas para
