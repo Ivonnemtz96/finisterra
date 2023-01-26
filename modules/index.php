@@ -131,13 +131,13 @@
                     <li>Contamos con la experiencia profesional</li>
                     <li>El servicio a los clientes es nuestro principal objetivo</li>
                 </ul>
-                <a href="project-detail.html" class="theme-btn btn-orange">
+                <a href="/contacto" class="theme-btn btn-orange">
                     Contactar <i class="fal fa-plus"></i>
                 </a>
             </div>
             <div class="col-lg-6">
                 <div class="profit-chart-box">
-                    <a href="index.html" class="chart-logo">
+                    <a href="/" class="chart-logo">
                         <img src="/assets/images/logo-icon.jpg" class="image-fit" alt="">
                     </a>
                     <a href="#" class="profit-icon icon-ps-1">
@@ -449,28 +449,28 @@
                         <img src="/assets/images/gallery-1.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Agencia automotriz</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Agencia automotriz</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="/assets/images/gallery-2.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Edificio de estacionamiento</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Edificio de estacionamiento</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="/assets/images/gallery-3.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Camiones y tractocamiones</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Camiones y tractocamiones</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
                         <img src="/assets/images/gallery-4.jpg?=1" class="image-fit" alt="">
                         <div class="gallery-text">
                             <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
-                            <h3 class="fw-600"><a href="project-detail.html">Maquinaria de construcción</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Maquinaria de construcción</a></h3>
                         </div>
                     </div>
                 </div>

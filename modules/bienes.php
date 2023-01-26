@@ -6,7 +6,7 @@
                 <div class="subheader-content">
                     <h1 class="page-title text-custom-white fw-600">¿Qué bienes valuamos?</h1>
                     <ul class="custom-flex breadcrumb">
-                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="/">Inicio</a></li>
                         <li>Bienes valuados</li>
                     </ul>
                 </div>
