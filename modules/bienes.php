@@ -23,9 +23,9 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-statistics text-orange"></i>
+                            <img src="/assets/images/residencial.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Inmobiliario Residencial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Residencial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
@@ -48,9 +48,9 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-market text-orange"></i>
+                            <img src="/assets/images/comercial.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Inmobiliario Comercial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Comercial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
@@ -74,9 +74,9 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-investment text-orange"></i>
+                        <img src="/assets/images/industrial.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Inmobiliario Industrial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Industrial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
@@ -94,9 +94,9 @@
                 <div class="choose-us-box style-2 mb-md-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-graphic text-orange"></i>
+                        <img src="/assets/images/predio.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Agropecuario:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Agropecuario:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
@@ -116,9 +116,10 @@
                 <div class="choose-us-box style-2 mb-md-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-growth text-orange"></i>
+                        <img src="/assets/images/camion.png" alt="">
+                            
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Industrial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Industrial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
@@ -138,9 +139,9 @@
                 <div class="choose-us-box style-2">
                     <div class="top-sec">
                         <div class="icon">
-                            <i class="flaticon-box text-orange"></i>
+                        <img src="/assets/images/embarcacion.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="service-detail.html">Otro industrial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Otro industrial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                         <ul>
