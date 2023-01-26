@@ -80,7 +80,7 @@
                                 </a>
                             </li>
                         </ul>
-                        <a href="/contact" class="theme-btn btn-orange">Solicitar presupuesto<i class="fal fa-plus"></i></a>
+                        <a href="/contacto" class="theme-btn btn-orange">Solicitar presupuesto<i class="fal fa-plus"></i></a>
                     </div>
                     <div class="hamburger-btn">
                         <div class="menu-btn">

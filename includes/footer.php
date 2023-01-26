@@ -1,5 +1,4 @@
 <!-- Start Footer -->
-
 <div class="copyright">
     <div class="container">
         <div class="row align-items-center">
