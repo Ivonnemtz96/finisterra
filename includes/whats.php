@@ -1005,7 +1005,7 @@
                     </div>
 
                     <div class="wa__popup_txt">
-                        <div class="wa__member_name">Finisterra Apparisals</div>
+                        <div class="wa__member_name">Finisterra Appraisals</div>
                         <!-- /.wa__member_name -->
                         <div class="wa__member_duty">Ventas</div>
                         <!-- /.wa__member_duty -->

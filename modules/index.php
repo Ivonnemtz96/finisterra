@@ -2,7 +2,7 @@
 <div class="main-slider-section p-relative">
     <div class="main-slider">
         <div class="slide-item">
-            <img src="/assets/images/banner-1.jpg?=1" class="image-fit" alt="">
+            <img src="/assets/images/banner-bg.jpg?=2" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="slide-item">
-            <img src="/assets/images/banner-bg.jpg?=1" class="image-fit" alt="">
+            <img src="/assets/images/banner-1.jpg?=2" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
@@ -36,7 +36,7 @@
 
                                 </h2>
                                 <p class="no-margin text-custom-white">
-                                    Avalúos profesionales y certicados con validex oficial
+                                    Avalúos profesionales y certicados con validez oficial
                                 </p>
                             </div>
                         </div>
@@ -254,7 +254,7 @@
     <div class="container-fluid no-padding">
         <div class="row no-gutters">
             <div class="col-lg-6">
-                <img src="/assets/images/skillset.jpg?=1" class="image-fit" alt="">
+                <img src="/assets/images/skillset.jpg?=2" class="image-fit" alt="">
             </div>
             <div class="col-lg-6 bg-dark-blue section-padding">
                 <div class="section-header left-heading">
