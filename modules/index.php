@@ -118,8 +118,8 @@
             <div class="col-lg-6 mb-md-80">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Avalúos</span></h6>
-                        <h3 class="text-blue fw-700 title">Atendemos cualquier tipo de Avalúos<span
+                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Avalúos Finisterra</span></h6>
+                        <h3 class="text-blue fw-700 title">Atendemos pricipalmente los siguientes bienes<span
                                 class="text-orange">.</span></h3>
                         <p class="desc">
                             Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier
@@ -184,9 +184,9 @@
                     </a>
                     <a href="#" class="profit-icon icon-ps-8">
                         <span class="icon">
-                            <img src="/assets/images/aeronave.png" alt="">
+                            <img src="/assets/images/patentes.png" alt="">
                         </span>
-                        <span class="icon-text">Aeronave</span>
+                        <span style="font-size: .8rem;" class="icon-text">Marcas Patentes</span>
                     </a>
                 </div>
             </div>
