@@ -200,11 +200,11 @@
         <div class="section-header">
             <div class="section-heading">
                 <h6 class="text-orange mb-xl-10 sub-heading"><span>Proceso</span></h6>
-                <h3 class="text-blue fw-700 title">Expertos valorando tus inmuebles<span class="text-orange">.</span>
+                <h3 class="text-blue fw-700 title">Expertos valorando tus bienes<span class="text-orange">.</span>
                 </h3>
             </div>
         </div>
-        <div class="lb-big-text">Process</div>
+        <div class="lb-big-text">Proceso</div>
         <div class="row">
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
