@@ -205,16 +205,16 @@
             </div>
         </div>
         <div class="lb-big-text">Proceso</div>
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Visita al inmueble</h4> <br>
+                    <h4 class="fw-600">Entrevista</h4> <br>
                     <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. </p> -->
                     <span class="icon text-orange">
-                        <img src="/assets/images/visita.png" alt="">
+                        <img src="/assets/images/entrevista.png" alt="">
                     </span>
                 </div>
             </div>
@@ -222,21 +222,49 @@
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Análisis de mercado </h4><br>
+                    <h4 class="fw-600">Recabando documentación </h4><br>
                     <!-- <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. 
+                    </p> -->
+                    <span class="icon text-orange">
+                        <img src="/assets/images/documentacion.png" alt="">
+                    </span>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-6">
+                <div class="process-box">
+                    <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
+                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
+                    <h4 class="fw-600">Análisis / Diagnóstico del bien a evaluar</h4>
+                    <!-- <p>
+                        Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
+                    </p> -->
+                    <span class="icon text-orange">
+                        <img src="/assets/images/valuacion.png" alt="">
+                    </span>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-6">
+                <div class="process-box">
+                    <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
+                            class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
+                    <h4 class="fw-600">Aplicación de los métodos de valuación</h4>
+                    <!-- <p>
+                        Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
                     </p> -->
                     <span class="icon text-orange">
                         <img src="/assets/images/datos.png" alt="">
                     </span>
                 </div>
             </div>
+
             <div class="col-lg-4 col-sm-6">
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Entrega del documento impreso</h4>
+                    <h4 class="fw-600">Entrega del informe de valuación</h4>
                     <!-- <p>
                         Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
                     </p> -->
