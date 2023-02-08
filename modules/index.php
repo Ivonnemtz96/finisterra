@@ -148,15 +148,15 @@
                     </a>
                     <a href="#" class="profit-icon icon-ps-2">
                         <span class="icon">
-                        <img src="/assets/images/clinica.png" alt="">
+                        <img src="/assets/images/carros.png?=1" alt="">
                         </span>
-                        <span class="icon-text">Hospital</span>
+                        <span style="font-size: .7rem;" class="icon-text">Autos de Colección</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-3">
                         <span class="icon">
-                            <img src="/assets/images/escuela.png" alt="">
+                            <img src="/assets/images/montacarga.png?=1" alt="">
                         </span>
-                        <span class="icon-text">Escuela</span>
+                        <span class="icon-text">Montacargas</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-4">
                         <span class="icon">
@@ -399,7 +399,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="faq-man p-relative">
-                    <img src="/assets/images/faq-man.jpg" class="image-fit" alt="">
+                    <img src="/assets/images/faq-man.jpg?=1" class="image-fit" alt="">
                 </div>
             </div>
         </div>
@@ -442,34 +442,34 @@
 <!-- Start Gallery -->
 <section class="section-padding slider-gallery-sec p-relative">
     <div class="container-fluid no-padding">
-        <div class="row">
+        <div class="row arrow-layout">
             <div class="col-12">
-                <div class="slider-gallery row arrow-layout">
+                <div class="slider-gallery row">
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-1.jpg?=1" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-1.jpg?=2" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
                             <h3 class="fw-600"><a href="/contacto">Agencia automotriz</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-2.jpg?=1" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-2.jpg?=2" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
                             <h3 class="fw-600"><a href="/contacto">Edificio de estacionamiento</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-3.jpg?=1" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-3.jpg?=2" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
                             <h3 class="fw-600"><a href="/contacto">Camiones y tractocamiones</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-4.jpg?=1" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-4.jpg?=2" class="image-fit" alt="">
                         <div class="gallery-text">
-                            <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p>
+                            <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
                             <h3 class="fw-600"><a href="/contacto">Maquinaria de construcción</a></h3>
                         </div>
                     </div>
@@ -479,74 +479,3 @@
     </div>
 </section>
 <!-- End Gallery -->
-
-<!-- Start Testimonials -->
-<section class="normal-bg section-padding testimonials-sec" style="background-image: url('/assets/images/map-bg.jpg');">
-    <div class="container">
-        <div class="section-header">
-            <div class="section-heading">
-                <h6 class="text-orange mb-xl-10 sub-heading"><span>Testimonios</span></h6>
-                <h3 class="fw-700 title">Opiniones de nuestros clientes<span class="text-orange">.</span></h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="testimonial-slider">
-                    <div class="col-12 slide-item">
-                        <div class="testimonial-box">
-                            <div class="user-img">
-                                <img src="/assets/images/testi-1.jpg" class="image-fit" alt="">
-                            </div>
-                            <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
-                                nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
-                                aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 1</a></h4>
-                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
-                        </div>
-                    </div>
-                    <div class="col-12 slide-item">
-                        <div class="testimonial-box">
-                            <div class="user-img">
-                                <img src="/assets/images/testi-2.jpg" class="image-fit" alt="">
-                            </div>
-                            <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
-                                nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
-                                aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 2</a></h4>
-                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
-                        </div>
-                    </div>
-                    <div class="col-12 slide-item">
-                        <div class="testimonial-box">
-                            <div class="user-img">
-                                <img src="/assets/images/testi-3.jpg" class="image-fit" alt="">
-                            </div>
-                            <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
-                                nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
-                                aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 3</a></h4>
-                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
-                        </div>
-                    </div>
-                    <div class="col-12 slide-item">
-                        <div class="testimonial-box">
-                            <div class="user-img">
-                                <img src="/assets/images/testi-3.jpg" class="image-fit" alt="">
-                            </div>
-                            <p class="fw-500">Lorem ipsum dolor sit amet, consectet ur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore ma gna aliqua. Ut enim ad minim ve niam, quis
-                                nostrud exercitation ullamco lab oris nisi ut aliquip ex ea commodo cons equat. Duis
-                                aute irure dolor in reprehe nderit in voluptate velit esse.</p>
-                            <h4 class="no-margin fw-600 mb-1"><a href="#">Cliente 4</a></h4>
-                            <!-- <p class="no-margin fw-600 text-orange double-lines"><span>Founder, Miranda Co.</span></p> -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Testimonials -->
