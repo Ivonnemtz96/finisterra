@@ -1687,7 +1687,7 @@ ul.profit-list li:before{
 .arrow-layout .slick-arrow{
     font-size: 0;
     position: absolute;
-    bottom: -158px;
+    bottom: 358px;
     left: 50%;
     right: 0;
     transform: translateX(-50%);
