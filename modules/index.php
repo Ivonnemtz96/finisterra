@@ -288,8 +288,7 @@
                 <div class="section-header left-heading">
                     <div class="section-heading">
                         <h6 class="text-orange mb-xl-10 sub-heading"><span>Nuestros conocimientos</span></h6>
-                        <h3 class="text-custom-white fw-700 title">Trabaja de una manera increíble con nuestro
-                            equipo<span class="text-orange">.</span></h3>
+                        <h3 class="text-custom-white fw-700 title">Entendemos tus necesidades y trabajamos para ello<span class="text-orange">.</span></h3>
                         <p class="desc text-custom-white">
                             Nos comprometemos con el futuro de nuestros clientes, ayudándolos a anticiparse y a
                             enfrentar sus retos y oportunidades con certeza y seguridad.
@@ -352,7 +351,7 @@
                         </div>
                     </div>
                     <div id="accordion" class="custom-faqs">
-                        <div class="card">
+                        <!-- <div class="card">
                             <div class="card-header">
                                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
                                     ¿Qué es una unidad de valuación?
@@ -377,7 +376,7 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="card">
                             <div class="card-header">
                                 <a class="card-link" data-toggle="collapse" href="#collapseTwo">
