@@ -347,7 +347,7 @@
                     <div class="section-header left-heading">
                         <div class="section-heading">
                             <h6 class="text-orange mb-xl-10 sub-heading"><span>FAQ</span></h6>
-                            <h3 class="fw-700 title">Algunas preguntas frecuentes<span class="text-orange">.</span></h3>
+                            <h3 class="fw-700 title">¿Qué ocupo para solicitar el avalúo u opinión de valor?<span class="text-orange">.</span></h3>
                         </div>
                     </div>
                     <div id="accordion" class="custom-faqs">

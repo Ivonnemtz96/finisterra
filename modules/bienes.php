@@ -29,7 +29,7 @@
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
-                        <li>Vivienda aislada (Casa Habitación).</li>
+                        <li>Casas Habitación.</li>
                         <li>Vivienda en condominio.</li>
                         <li>Departamento habitacional.</li>
                         <li>Edificio de departamentos.</li>
@@ -48,22 +48,24 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                            <img src="/assets/images/comercial.png" alt="">
+                            <img src="/assets/images/clasico.png" alt="">
                         </div>
                         <h4 class="fw-600 no-margin"><a href="">Inmobiliario Comercial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
+                        <li>Automóviles de colección</li>
+                        <li>Automóviles clásicos</li>
+                        <li>Oficina aislada y/o Edificio de oficinas.</li>
                         <li>Local comercial.</li>
                         <li>Centro comercial.</li>
-                        <li>Oficina aislada y/o Edificio de oficinas.</li>
                         <li>Terrenos con uso comercial y/o oficinas.</li>
-                        <li>Hospital.</li>
-                        <li>Escuela.</li>
+                        <!-- <li>Hospital.</li>
+                        <li>Escuela.</li> -->
                         <li>Agencia automotriz.</li>
                         <li>Edificio de estacionamiento.</li>
-                        <li>Hoteles.</li>
-                        <li>Campo de golf, entre otros.</li>
+                        <!-- <li>Hoteles.</li> -->
+                        <li>Campo de golf.</li>
                     </ul>
                     </p>
 
@@ -74,12 +76,16 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                        <img src="/assets/images/industrial.png" alt="">
+                        <img src="/assets/images/montacarga2.png" alt="">
                         </div>
                         <h4 class="fw-600 no-margin"><a href="">Inmobiliario Industrial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
+                        <li>Maquinaria y equipo</li>
+                        <li>Camiones y Tractocamiones</li>
+                        <li>Tractores</li>
+                        <li>Montacargas</li>
                         <li>Bodega</li>
                         <li>Nave industrial</li>
                         <li>Parque industrial</li>
@@ -90,7 +96,7 @@
                     <i class="flaticon-investment bg-icon"></i>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <!-- <div class="col-lg-4 col-md-6">
                 <div class="choose-us-box style-2 mb-md-30">
                     <div class="top-sec">
                         <div class="icon">
@@ -134,14 +140,14 @@
                     </p>
                     <i class="flaticon-growth bg-icon"></i>
                 </div>
-            </div>
+            </div> -->
             <div class="col-lg-4 col-md-6">
                 <div class="choose-us-box style-2">
                     <div class="top-sec">
                         <div class="icon">
                         <img src="/assets/images/embarcacion.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Otro industrial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Otros:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                         <ul>
@@ -154,6 +160,27 @@
                     <i class="flaticon-box bg-icon"></i>
                 </div>
             </div>
+
+
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2">
+                    <div class="top-sec">
+                        <div class="icon">
+                        <img src="/assets/images/casas.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Más valoraciones:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                        <ul>
+                            <li>Propiedades y bienes raíces.</li>
+                            <li>Valoración de empresas (tangibles e intangibles).</li>
+                        </ul>
+                    </p>
+                    <i class="flaticon-box bg-icon"></i>
+                </div>
+            </div>
+
+
 
         </div>
     </div>
