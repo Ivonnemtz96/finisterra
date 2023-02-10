@@ -30,30 +30,32 @@
                     <div class="icon text-orange">
                         <i class="fal fa-map"></i>
                     </div>
-                    <h3 class="fw-600">Direción</h3>
+                    <h5 class="fw-600">Direción</h5>
                     <a href="https://goo.gl/maps/aZnozq5q7RUELbMy9" class="fw-500 fs-16">
                         Paseo de los Marinos, S/N Colonia Chamizal, San José del Cabo, B.C.S.
                         <a>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="contact-info-box mb-md-30">
-                    <div class="icon text-orange">
-                        <i class="fal fa-phone"></i>
-                    </div>
-                    <h3 class="fw-600">Teléfono</h3>
-                    <a href="tel:+526241555762" class="fw-500 fs-16">+52 624 155 5762</a> <br><br><br><br>
-                    <!-- <a href="tel:" class="fw-500 fs-16">765 648 567 98</a> -->
-                </div>
-            </div>
+            
             <div class="col-lg-4 col-md-6">
                 <div class="contact-info-box">
                     <div class="icon text-orange">
                         <i class="fal fa-globe"></i>
                     </div>
-                    <h3 class="fw-600">Correo</h3>
-                    <a href="mailto:info@finisterraappraisals.com" class="fw-500 fs-16">info@finisterraappraisals.com</a>
+                    <h5 class="fw-600">Correo</h5>
+                    <a href="mailto:info@avaluosfinisterra.com" class="fw-500 fs-16">info@avaluosfinisterra.com</a>
                     <br><br><br><br>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="contact-info-box mb-md-30">
+                    <div class="icon text-orange">
+                        <i class="fal fa-phone"></i>
+                    </div>
+                    <h5 class="fw-600">Teléfono</h5>
+                    <a href="tel:+526241555762" class="fw-500 fs-16">+52 624 155 5762</a> <br><br><br><br>
+                    <!-- <a href="tel:" class="fw-500 fs-16">765 648 567 98</a> -->
                 </div>
             </div>
         </div>
