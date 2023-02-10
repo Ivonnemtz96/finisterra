@@ -110,7 +110,9 @@
                                 <li class="menu-item">
                                     <a href="/bienes">¿Qué bienes valuamos?</a>
                                 </li>
-                                
+                                <li class="menu-item">
+                                    <a href="/contacto">Avalúo</a>
+                                </li>
                                 <li class="menu-item">
                                     <a href="/contacto">Contacto</a>
                                 </li>
