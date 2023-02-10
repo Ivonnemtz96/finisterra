@@ -8,6 +8,7 @@
         <?php
         include("includes/header.php");
         include("modules/avaluo.php");
+        include("includes/whats.php");
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>

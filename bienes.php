@@ -8,6 +8,7 @@
         <?php
         include("includes/header.php");
         include("modules/bienes.php");
+        include("includes/whats.php");
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>
