@@ -16,7 +16,7 @@
                 </ul>
             </div> -->
             <div class="col-lg-4 col-md-6">
-                <p class="text-custom-white fw-500">Copyright 2023 Finisterra Appraisals. Diseñado por  <a href="https://bananagroup.mx/"
+                <p class="text-custom-white fw-500">Copyright 2023 Avalúos Finisterra. Diseñado por  <a href="https://bananagroup.mx/"
                         class="text-custom-white">Banana Group Marketing</a></p>
             </div>
             <div class="col-lg-4">
@@ -28,15 +28,11 @@
                     </li>
                     <li>
                         <a href="#" class="text-custom-white">
-                            <i class="fab fa-twitter"></i>
+                            <i class="fab fa-instagram"></i>
                         </a>
                     </li>
                    
-                    <li>
-                        <a href="#" class="text-custom-white">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                    </li>
+                   
                     
                 </ul>
             </div>
