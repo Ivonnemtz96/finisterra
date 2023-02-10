@@ -4472,3 +4472,9 @@ ul.profit-list li:before{
   right: 20px;
   text-decoration: none;
 }
+
+/* Estilos */
+.icons:hover{
+    /* border: 1px solid #000; */
+    box-shadow: 1px 1px 3px #000;
+}
