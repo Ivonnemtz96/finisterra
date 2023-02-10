@@ -68,9 +68,9 @@
                     <div class="right-side">
                         <ul class="custom-flex">
                             <li>
-                                <a href="mailto:info@finisterraappraisals.com" class="text-blue">
+                                <a href="mailto:info@avaluosfinisterra.com" class="text-blue">
                                     <i class="fal fa-envelope text-orange"></i>
-                                    info@finisterraappraisals.com
+                                    info@avaluosfinisterra.com
                                 </a>
                             </li>
                             <li>
