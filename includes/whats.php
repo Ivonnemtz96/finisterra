@@ -996,7 +996,7 @@
         <div class="wa__popup_content_list">
             <div class="wa__popup_content_item ">
                 <a target="_blank"
-                    href="https://web.whatsapp.com/send?phone=+526241555762&amp;text=Me gustaría agendar una cita"
+                    href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita."
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
@@ -1005,7 +1005,7 @@
                     </div>
 
                     <div class="wa__popup_txt">
-                        <div class="wa__member_name">Finisterra Appraisals</div>
+                        <div class="wa__member_name">Avalúos Finisterra</div>
                         <!-- /.wa__member_name -->
                         <div class="wa__member_duty">Ventas</div>
                         <!-- /.wa__member_duty -->
