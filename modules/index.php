@@ -473,17 +473,17 @@
             <div class="col-12">
                 <div class="slider-gallery row">
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-1.jpg?=2" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-1.jpg?=3" class="image-fit" alt="">
                         <div class="gallery-text">
                             <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
-                            <h3 class="fw-600"><a href="/contacto">Agencia automotriz</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Autos de colección</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
-                        <img src="/assets/images/gallery-2.jpg?=2" class="image-fit" alt="">
+                        <img src="/assets/images/gallery-2.jpg?=3" class="image-fit" alt="">
                         <div class="gallery-text">
                             <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
-                            <h3 class="fw-600"><a href="/contacto">Edificio de estacionamiento</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Marcas Patentes</a></h3>
                         </div>
                     </div>
                     <div class="col-12 slide-item">
