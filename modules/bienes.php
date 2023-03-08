@@ -34,8 +34,7 @@
                         <li>Departamento habitacional.</li>
                         <li>Edificio de departamentos.</li>
                         <li>Conjunto habitacional horizontal.</li>
-                        <li>Terrenos de uso habitacional.</li>
-                        <li>Cajón de estacionamiento cubierto y descubierto.</li>
+                        <li>Terrenos de uso habitacional/ comercial/ industrial.</li>
                         <li> Entre otros.</li>
                     </ul>
                     </p>
@@ -50,25 +49,16 @@
                         <div class="icon">
                             <img src="/assets/images/clasico.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Comercial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes de intereses especiales:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
                         <li>Automóviles de colección</li>
                         <li>Automóviles clásicos</li>
-                        <li>Oficina aislada y/o Edificio de oficinas.</li>
-                        <li>Local comercial.</li>
-                        <li>Centro comercial.</li>
-                        <li>Terrenos con uso comercial y/o oficinas.</li>
-                        <!-- <li>Hospital.</li>
-                        <li>Escuela.</li> -->
-                        <li>Agencia automotriz.</li>
-                        <li>Edificio de estacionamiento.</li>
-                        <!-- <li>Hoteles.</li> -->
-                        <li>Campo de golf.</li>
+                        <li>Obra de arte.</li>
+                        <li>Joyas</li>
                     </ul>
                     </p>
-
                     <i class="flaticon-market bg-icon"></i>
                 </div>
             </div>
@@ -76,86 +66,34 @@
                 <div class="choose-us-box style-2 mb-xl-30">
                     <div class="top-sec">
                         <div class="icon">
-                        <img src="/assets/images/montacarga2.png" alt="">
+                            <img src="/assets/images/montacarga2.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Industrial:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Maquinaria y equipo:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
-                        <li>Maquinaria y equipo</li>
                         <li>Camiones y Tractocamiones</li>
                         <li>Tractores</li>
                         <li>Montacargas</li>
                         <li>Bodega</li>
-                        <li>Nave industrial</li>
-                        <li>Parque industrial</li>
-                        <li>Terrenos con uso industrial</li>
-
                     </ul>
                     </p>
                     <i class="flaticon-investment bg-icon"></i>
                 </div>
             </div>
-            <!-- <div class="col-lg-4 col-md-6">
-                <div class="choose-us-box style-2 mb-md-30">
-                    <div class="top-sec">
-                        <div class="icon">
-                        <img src="/assets/images/predio.png" alt="">
-                        </div>
-                        <h4 class="fw-600 no-margin"><a href="">Agropecuario:</a></h4>
-                    </div>
-                    <p class="fw-500 mb-xl-10">
-                    <ul>
-                        <li>Predio rustico de agostadero y temporal (con o sin construcciones y/o instalaciones).</li>
-                        <li>Predio rustico de riego y frutales (con o sin construcciones y/o instalaciones).</li>
-                        <li>Predios rústicos en transición (con o sin construcciones).</li>
-                        <li>Bienes Pecuarios.</li>
-                        <li>Bienes Acuícolas</li>
-                        <li>Semovientes.</li>
-                        <li>Bienes Agroindustriales.</li>
-                    </ul>
-                    </p>
-                    <i class="flaticon-graphic bg-icon"></i>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="choose-us-box style-2 mb-md-30">
-                    <div class="top-sec">
-                        <div class="icon">
-                        <img src="/assets/images/camion.png" alt="">
-                            
-                        </div>
-                        <h4 class="fw-600 no-margin"><a href="">Industrial:</a></h4>
-                    </div>
-                    <p class="fw-500 mb-xl-10">
-                    <ul>
-                        <li>Maquinaria y Equipo e Industrial</li>
-                        <li>Maquinaria y equipo aislada.</li>
-                        <li>Mobiliario y equipo de oficina.</li>
-                        <li>Unidades Industriales (inmueble, maquinaria y equipo).</li>
-                        <li>Vehículo automotor y flotillas.</li>
-                        <li>Camiones y Tractocamiones.</li>
-                        <li>Maquinaria de Construcción.</li>
-                    </ul>
-                    </p>
-                    <i class="flaticon-growth bg-icon"></i>
-                </div>
-            </div> -->
             <div class="col-lg-4 col-md-6">
                 <div class="choose-us-box style-2">
                     <div class="top-sec">
                         <div class="icon">
-                        <img src="/assets/images/embarcacion.png" alt="">
+                            <img src="/assets/images/embarcacion.png" alt="">
                         </div>
                         <h4 class="fw-600 no-margin"><a href="">Otros:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
-                        <ul>
-                            <li>Aeronave</li>
-                            <li>Embarcación y Artefactos Navales.</li>
-                            <li>Obra de arte.</li>
-                            <li>Joyas</li>
-                        </ul>
+                    <ul>
+                        <li>Aeronave</li>
+                        <li>Embarcación y Artefactos Navales.</li>
+                    </ul>
                     </p>
                     <i class="flaticon-box bg-icon"></i>
                 </div>
@@ -166,22 +104,22 @@
                 <div class="choose-us-box style-2">
                     <div class="top-sec">
                         <div class="icon">
-                        <img src="/assets/images/casas.png" alt="">
+                            <img src="/assets/images/casas.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Más valoraciones:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes intangibles:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
-                        <ul>
-                            <li>Propiedades y bienes raíces.</li>
-                            <li>Valoración de empresas (tangibles e intangibles).</li>
-                        </ul>
+                    <ul>
+                        <li>Marcas.</li>
+                        <li>Patentes.</li>
+                        <li>Proyectos Financieros.</li>
+                        <li>Valoración de empresas (tangibles e intangibles).</li>
+                        <li>Entre otros.</li>
+                    </ul>
                     </p>
                     <i class="flaticon-box bg-icon"></i>
                 </div>
             </div>
-
-
-
         </div>
 
         <div class="row justify-content-center mt-5">
