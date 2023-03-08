@@ -85,6 +85,7 @@ body {
     border-color: #dfdfdf;
     transition: transform ease-in .4s;
     overflow: hidden;
+    text-transform: uppercase;
 }
 button {
     background: transparent;
@@ -4477,4 +4478,7 @@ ul.profit-list li:before{
 .icons:hover{
     /* border: 1px solid #000; */
     box-shadow: 1px 1px 3px #000;
+}
+.justificado{
+    text-align: justify !important;
 }

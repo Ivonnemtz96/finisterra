@@ -71,18 +71,15 @@
             <div class="col-lg-6">
                 <div class="about-images p-relative mb-md-80">
                     <img src="/assets/images/about-img-1.jpg?=1" class="img-fluid image-one" alt="">
-                    <img src="/assets/images/about-icon-1.png?=1" class="img-fluid icon-one" alt="">
                     <img src="/assets/images/about-img-2.jpg?=2" class="img-fluid image-two" alt="">
-                    <img src="/assets/images/about-icon-2.png?=1" class="img-fluid icon-two" alt="">
                 </div>
             </div>
             <div class="col-lg-6 col-md-10">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Nosotros</span></h6>
                         <h3 class="text-blue fw-700 title">Somos expertos en el área<span class="text-orange">.</span>
                         </h3>
-                        <p class="desc">
+                        <p class="desc justificado">
                             En la elaboración de nuestros avalúos, nos comprometemos a ayudar a nuestros clientes a
                             lograr sus objetivos ofreciendo servicios confiables de valuación para utilizarse en la
                             óptima toma de decisiones, comerciales o financieras con el mejor respaldo técnico en el
@@ -93,12 +90,9 @@
                     </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-4 text-center">
-                        <span class="count">100</span><span class="text-orange fs-16">%</span>
-                    </div>
                     <div class="col-8">
                         <h4 class="mb-xl-10 fw-600">Misión<span class="text-orange">.</span></h4>
-                        <p>
+                        <p class="justificado">
                             Nos esforzamos cada día en ofrecer a nuestros clientes un excelente servicio de valuación,
                             por eso seguimos rigurosamente normas y procedimientos nacionales e internacionales de
                             valuación, así como un código de prácticas interno y una constante renovación en nuestros
@@ -127,18 +121,16 @@
             <div class="col-lg-6 mb-md-80">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Avalúos Finisterra</span></h6>
-                        <h3 class="text-blue fw-700 title">Atendemos pricipalmente los siguientes bienes<span
+                        <h3 class="text-blue fw-700 title jutificado">Atendemos pricipalmente los siguientes bienes<span
                                 class="text-orange">.</span></h3>
-                        <p class="desc">
-                            Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier
-                            industria.
+                        <p class="desc justificado">
+                            Consultoría de validación para los principales sectores económicos.
                         </p>
                     </div>
                 </div>
                 <ul class="custom profit-list">
-                    <li>Contamos con la experiencia profesional</li>
-                    <li>El servicio a los clientes es nuestro principal objetivo</li>
+                    <li>Contamos con la experiencia profesional requerida</li>
+                    <li>La calidad de servicio a los clientes es nuestro principal objetivo</li>
                 </ul>
                 <a href="/contacto" class="theme-btn btn-orange">
                     Contactar <i class="fal fa-plus"></i>
@@ -153,7 +145,7 @@
                         <span class="icon">
                             <img src="/assets/images/inmobiliario.png" alt="">
                         </span>
-                        <span class="icon-text">Inmobiliario</span>
+                        <span style="font-size: .7rem;" class="icon-text">Inmobiliario</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-2">
                         <span class="icon">
@@ -165,37 +157,37 @@
                         <span class="icon">
                             <img src="/assets/images/montacarga.png?=1" alt="">
                         </span>
-                        <span class="icon-text">Montacargas</span>
+                        <span style="font-size:.7rem;" class="icon-text">Maquinaria y equipo</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-4">
                         <span class="icon">
                             <img src="/assets/images/bodega.png" alt="">
                         </span>
-                        <span class="icon-text">Bodega</span>
+                        <span style="font-size: .7rem;" class="icon-text">Proyectos de inversión</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-5">
                         <span class="icon">
                             <img src="/assets/images/hoteles.png" alt="">
                         </span>
-                        <span class="icon-text">Hoteles</span>
+                        <span style="font-size: .7rem;" class="icon-text">Hoteles</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-6">
                         <span class="icon">
                             <img src="/assets/images/arte.png" alt="">
                         </span>
-                        <span class="icon-text">Obra de arte</span>
+                        <span style="font-size: .7rem;" class="icon-text">Obra de arte</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-7">
                         <span class="icon">
                             <img src="/assets/images/joyas.png" alt="">
                         </span>
-                        <span class="icon-text">Joyas</span>
+                        <span style="font-size: .7rem;" class="icon-text">Joyas</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-8">
                         <span class="icon">
                             <img src="/assets/images/patentes.png" alt="">
                         </span>
-                        <span style="font-size: .8rem;" class="icon-text">Marcas Patentes</span>
+                        <span style="font-size: .7rem;" class="icon-text">Marcas Patentes</span>
                     </a>
                 </div>
             </div>
@@ -208,7 +200,6 @@
     <div class="container">
         <div class="section-header">
             <div class="section-heading">
-                <h6 class="text-orange mb-xl-10 sub-heading"><span>Proceso</span></h6>
                 <h3 class="text-blue fw-700 title">Expertos valorando tus bienes<span class="text-orange">.</span>
                 </h3>
             </div>
@@ -231,7 +222,7 @@
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Recabando documentación </h4><br>
+                    <h4 class="fw-600">Recabación información / Documentación </h4><br>
                     <!-- <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua nim ad minim veniam. 
@@ -297,12 +288,11 @@
             <div class="col-lg-6 bg-dark-blue section-padding">
                 <div class="section-header left-heading">
                     <div class="section-heading">
-                        <h6 class="text-orange mb-xl-10 sub-heading"><span>Nuestros conocimientos</span></h6>
                         <h3 class="text-custom-white fw-700 title">Entendemos tus necesidades y trabajamos para
                             ello<span class="text-orange">.</span></h3>
-                        <p class="desc text-custom-white">
+                        <p class="desc text-custom-white justificado">
                             Nos comprometemos con el futuro de nuestros clientes, ayudándolos a anticiparse y a
-                            enfrentar sus retos y oportunidades con certeza y seguridad.
+                            enfrentar sus retos y oportunidades con certeza y seguridad en la adecuada toma de decisiones.
                         </p>
                     </div>
                 </div>
@@ -366,39 +356,12 @@
                 <div class="left-side">
                     <div class="section-header left-heading">
                         <div class="section-heading">
-                            <h6 class="text-orange mb-xl-10 sub-heading"><span>FAQ</span></h6>
                             <h3 class="fw-700 title">¿Qué ocupo para solicitar el avalúo u opinión de valor?<span
                                     class="text-orange">.</span></h3>
                         </div>
                     </div>
                     <div id="accordion" class="custom-faqs">
                         <!-- <div class="card">
-                            <div class="card-header">
-                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseOne">
-                                    ¿Qué es una unidad de valuación?
-                                    <span>
-                                        <i class="fal fa-arrow-down"></i>
-                                    </span>
-                                </a>
-                            </div>
-                            <div id="collapseOne" class="collapse" data-parent="#accordion">
-                                <div class="card-body">
-                                    <ul>
-                                        <li>Es una empresa que realiza avalúos, la cual integra a peritos,
-                                            controladores, directivos y personal administrativo encargado de dar
-                                            cumplimiento a las normas valuación aplicables.</li>
-                                        <li>Las Unidades de Valuación son las encargadas a nivel nacional de tasar o
-                                            colocar un valor “precio” a un bien.</li>
-                                        <li>En México existen aproximadamente 105 Unidades de Valuación.</li>
-                                        <li>Las Unidades de Valuación están sujetas a estrictas normas y códigos éticas,
-                                            regulatorias, son entes autónomos regulados por la Sociedad Hipotecaria
-                                            Federal, deben ser imparciales y libres de presiones para establecer un
-                                            valor./li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div> -->
-                        <div class="card">
                             <div class="card-header">
                                 <a class="card-link" data-toggle="collapse" href="#collapseTwo">
                                     ¿En qué sectores nos especializamos?
@@ -419,11 +382,11 @@
                                     </ul>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="card">
                             <div class="card-header">
                                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    ¿Para qué sectores se elabora un dictamen técnico?
+                                    ¿Para qué personas o entidades se elabora un informe de valuavción?
                                     <span>
                                         <i class="fal fa-arrow-down"></i>
                                     </span>
@@ -456,28 +419,30 @@
 <!-- End Faqs -->
 <!-- Start Quote -->
 <div class="quote-sec p-relative">
-    <div class="container">
-        <div class="row">
-            <div class="col-12">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-8">
                 <div class="quote-box bg-dark-blue">
                     <div class="row align-items-center justify-content-between">
                         <div class="col-lg-6 mb-md-80">
                             <div class="section-header left-heading pb-0">
                                 <div class="section-heading">
-                                    <h6 class="text-orange mb-xl-10 sub-heading"><span>Solicita tu presupuesto</span>
                                     </h6>
-                                    <h3 class="fw-700 title text-custom-white">Contáctanos o solicita tu presupuesto con
-                                        nosotros<span class="text-orange">.</span></h3>
+                                    <h3 class="fw-700 title text-custom-white">Contáctanos o solicita tu presupuesto sin compromiso alguno<span class="text-orange">.</span></h3>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-5">
+                        <div class="col-lg-6">
                             <p class="text-custom-white">
                                 Déjanos tus datos y pronto nos pondremos en contacto contigo o márcanos al:
                             </p>
                             <a href="tel:6241555762" class="text-custom-white contact-no">
                                 <i class="fal fa-phone text-orange"></i>
-                                624 155 5762
+                             Llamadas:  624 155 5762
+                            </a>
+                            <br>
+                            <a class="text-custom-white contact-no" href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
+                                <img style="width: 3rem;" src="/assets/images/whatsapp.png" alt="">WhatsApp: 624 155 5762
                             </a>
                         </div>
                     </div>
