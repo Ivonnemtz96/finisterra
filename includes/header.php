@@ -108,11 +108,11 @@
                                     <a href="/#nosotros">Nosotros</a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="/bienes">¿Qué bienes valuamos?</a>
+                                    <a href="/avaluo">¿Qué bienes valuamos?</a>
                                 </li>
-                                <li class="menu-item">
+                                <!-- <li class="menu-item">
                                     <a href="/avaluo">Avalúo</a>
-                                </li>
+                                </li> -->
                                 <li class="menu-item">
                                     <a href="/contacto">Contacto</a>
                                 </li>

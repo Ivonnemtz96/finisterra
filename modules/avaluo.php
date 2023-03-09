@@ -33,18 +33,14 @@
                                 <div class="right-side">
                                     <div class="section-header left-heading">
                                         <div class="section-heading">
-                                            <h6 class="text-orange mb-xl-10 sub-heading"><span>Opinón de valor</span>
                                             </h6>
                                             <h3 class="text-blue">Expertos valorando tus bienes</h3>
-                                            <p class="desc">
+                                            <p class="desc justificado">
                                                 Cada vez existe una demanda creciente de valoraciones de activos
                                                 singulares con las cuales atender necesidades o mejora de la información
                                                 que sirvan para la toma de decisiones individuales, corporativas o para
                                                 sus gestores.
-
-                                                En Avalúos Finisterra tenemos expertos calificados para cada segmento y
-                                                contamos
-                                                con oficinas en toda la República Mexicana.
+                                                En Avalúos Finisterra tenemos expertos calificados para cada segmento.
                                             </p>
                                         </div>
                                     </div>
@@ -65,83 +61,127 @@
             </div>
         </div>
     </div>
-    <div class="counter-sec-2 style-2 count-section p-5" style="background-color: #f3f5f7;">
-        <div class="container text-center">
-            <h2>Giros que valuamos</h2>
-            <div class="row">
 
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Marcas Patentes</h5>
-                    <img src="/assets/images/icons/marcas.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Bodegas</h5>
-                    <img src="/assets/images/icons/bodega.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Hoteles</h5>
-                    <img src="/assets/images/icons/hotel.png" alt="">
-                </div>
+</section>
+<!-- End About us -->
 
-                <div class="col-6 col-lg-3 mt-5 mb-5 icons p-4">
-                    <h5>Aeronaves</h5>
-                    <img src="/assets/images/icons/avion.png" alt="">
+<!-- Start Services -->
+<section class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2 mb-xl-30">
+                    <div class="top-sec">
+                        <div class="icon">
+                            <img src="/assets/images/residencial.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Inmobiliario Residencial:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                    <ul>
+                        <li>Casas Habitación.</li>
+                        <li>Vivienda en condominio.</li>
+                        <li>Departamento habitacional.</li>
+                        <li>Edificio de departamentos.</li>
+                        <li>Conjunto habitacional horizontal.</li>
+                        <li>Terrenos de uso habitacional/ comercial/ industrial.</li>
+                        <li> Entre otros.</li>
+                    </ul>
+                    </p>
+                    <!-- <a href="service-detail.html" class="fw-600 fs-14 link">Read More <i
+                            class="fas fa-long-arrow-right text-orange"></i></a> -->
+                    <i class="flaticon-statistics bg-icon"></i>
                 </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Bienes y raíces</h5>
-                    <img src="/assets/images/icons/bienes.png" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2 mb-xl-30">
+                    <div class="top-sec">
+                        <div class="icon">
+                            <img src="/assets/images/clasico.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes de intereses especiales:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                    <ul>
+                        <li>Automóviles de colección</li>
+                        <li>Automóviles clásicos</li>
+                        <li>Obra de arte.</li>
+                        <li>Joyas</li>
+                    </ul>
+                    </p>
+                    <i class="flaticon-market bg-icon"></i>
                 </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Camiones</h5>
-                    <img src="/assets/images/icons/camiones.png" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2 mb-xl-30">
+                    <div class="top-sec">
+                        <div class="icon">
+                            <img src="/assets/images/montacarga2.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Maquinaria y equipo:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                    <ul>
+                        <!-- <li>Camiones y Tractocamiones</li> -->
+                        <li>Tractores</li>
+                        <li>Montacargas</li>
+                        <li>Bodega</li>
+                    </ul>
+                    </p>
+                    <i class="flaticon-investment bg-icon"></i>
                 </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Autos clásicos</h5>
-                    <img src="/assets/images/icons/carro.png" alt="">
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2">
+                    <div class="top-sec">
+                        <div class="icon">
+                            <img src="/assets/images/embarcacion.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Otros:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                    <ul>
+                        <li>Aeronave</li>
+                        <li>Embarcación y Artefactos Navales.</li>
+                    </ul>
+                    </p>
+                    <i class="flaticon-box bg-icon"></i>
                 </div>
+            </div>
 
 
+            <div class="col-lg-4 col-md-6">
+                <div class="choose-us-box style-2">
+                    <div class="top-sec">
+                        <div class="icon">
+                            <img src="/assets/images/casas.png" alt="">
+                        </div>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes intangibles:</a></h4>
+                    </div>
+                    <p class="fw-500 mb-xl-10">
+                    <ul>
+                        <li>Marcas.</li>
+                        <li>Patentes.</li>
+                        <li>Proyectos Financieros.</li>
+                        <li>Valoración de empresas (tangibles e intangibles).</li>
+                        <li>Entre otros.</li>
+                    </ul>
+                    </p>
+                    <i class="flaticon-box bg-icon"></i>
+                </div>
+            </div>
+        </div>
 
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Joyas</h5>
-                    <img src="/assets/images/icons/collar.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Embarcación</h5>
-                    <img src="/assets/images/icons/crucero.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Obras de arte</h5>
-                    <img src="/assets/images/icons/cuadros.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Maquinaria</h5>
-                    <img src="/assets/images/icons/excavador.png" alt="">
-                </div>
-
-
-
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Autos de colección</h5>
-                    <img src="/assets/images/icons/mustang.png?=1" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Oficinas</h5>
-                    <img src="/assets/images/icons/oficinas.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Locales</h5>
-                    <img src="/assets/images/icons/tienda.png" alt="">
-                </div>
-                <div class="col-6 col-lg-3  mt-5 mb-5 icons p-4">
-                    <h5>Tractores</h5>
-                    <img src="/assets/images/icons/tractor.png" alt="">
-                </div>
+        <div class="row justify-content-center mt-5">
+            <div class="col-3 ">
+                <a href="/contacto" class="theme-btn btn-orange">
+                    Contactar <i class="fal fa-plus"></i>
+                </a>
             </div>
         </div>
     </div>
 </section>
-<!-- End About us -->
+<!-- End Services -->
 
 <section class="especiales">
     <div class="container">
