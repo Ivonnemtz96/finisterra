@@ -96,7 +96,7 @@
                         <div class="col-md-6">
                             <div class="form-group group-form">
                                 <input type="text" name="apellidos" class="form-control form-control-custom"
-                                    placeholder="Apellidos " />
+                                    placeholder="Apellidos" />
                                 <span class="icon">
                                     <i class="fal fa-user"></i>
                                 </span>
@@ -125,7 +125,7 @@
                         <div class="col-md-6">
                             <div class="form-group group-form">
                                 <input type="text" name="ubicacion" class="form-control form-control-custom"
-                                    placeholder="Ubicación del Avalúo/Servicio *" />
+                                    placeholder="Ubicación bien a valuar *" />
                                 <span class="icon">
                                     <i class="fal fa-phone-alt"></i>
                                 </span>
@@ -135,7 +135,7 @@
                         <div class="col-md-12">
                             <div class="form-group group-form">
                                 <input type="text" name="tipo" class="form-control form-control-custom"
-                                    placeholder="Tipo de servicio *" />
+                                    placeholder="Tipo de servicio" />
                                 <span class="icon">
                                     <i class="fal fa-phone-alt"></i>
                                 </span>
@@ -182,10 +182,10 @@
 </div>
 <!-- End contact form -->
 <!-- Start Map -->
-<div class="contact-map">
+<!-- <div class="contact-map">
     <iframe title="contact map" class="image-fit"
         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.0355568262225!2d-109.70965923473926!3d23.059157970745495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af508175f71d53%3A0x758653a320a666f5!2sP.%C2%BA%20de%20los%20Marinos%2C%20Mauricio%20Castro%2C%2023443%20San%20Jos%C3%A9%20del%20Cabo%2C%20B.C.S.!5e0!3m2!1ses-419!2smx!4v1674590540904!5m2!1ses-419!2smx&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed">
     </iframe>
 
-</div>
+</div> -->
 <!-- Start Map -->
