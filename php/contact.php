@@ -7,6 +7,7 @@ extract($_REQUEST);
 // 0 -> PHP
 // 1 -> AJAX
 $tipo_de_procesamiento = 0;
+$documento_cargado = 0;
 
 //GENERAR CODIGO ALEATORIO
 function GeraHash($qtd){ 
@@ -57,6 +58,7 @@ if (!empty($_FILES['archivo']['tmp_name'])) {
       //SUBIMOS LA FOTO EN LA CARPETA EXISTENTE O LA CREADA
       $archivo_subido = ''.$ruta.'/'.$codigo .'.pdf';
       move_uploaded_file($PDF_Upload, $archivo_subido);
+      $documento_cargado = 1;
 }
 
 
@@ -77,7 +79,13 @@ if (!$captcha_es_valido) {
 if (!validarVariable($nombre) || !validarVariable($email) || !validarVariable($tel) || !validarVariable($ubicacion) || !validarVariable($msj)  ) {
   mandarError("1");
 }
-$archivo = '<a href="https://finisterra.marketingenloscabos.com/'.$ruta.'/'.$codigo.'.pdf">Descargar archivo</a>';
+if ($GLOBALS["documento_cargado"] != 0) {
+  $archivo = '<a href="https://finisterra.marketingenloscabos.com/'.$ruta.'/'.$codigo.'.pdf">Descargar archivo</a>';
+}
+else{
+  $archivo = 'No se cargó documento';
+}
+
 
 $correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Empresa: ", $empresa);
@@ -146,6 +154,7 @@ exit;
   }
 
   }  
+
 }
 
 

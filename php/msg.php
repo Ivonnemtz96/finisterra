@@ -2,7 +2,7 @@
 .alert {
     position: fixed;
     right: 25px;
-    bottom: 8%;
+    top: 8%;
     z-index: 999;
     padding: 20px;
     color: white !important;
