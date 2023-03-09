@@ -1,47 +1,49 @@
 <style>
-    .alert {
-        position: fixed;
-        right: 25px;
-        bottom: 8%;
-        z-index: 999;
-        padding: 20px;
-        color: white !important;
-    }   
-    .danger {
-        background-color: #ff6c6c;
-    }
-    .success {
-        background-color: #39d040;
-    }
-    .warning {
-        background-color: #fbc038;
-    }
-    .closebtn {
-        margin-left: 15px;
-        color: white;
-        font-weight: bold;
-        float: right;
-        font-size: 22px;
-        line-height: 20px;
-        cursor: pointer;
-        transition: 0.3s;
-    }
-    
-    .closebtn:hover {
-        color: black;
-    }
-    
+.alert {
+    position: fixed;
+    right: 25px;
+    bottom: 8%;
+    z-index: 999;
+    padding: 20px;
+    color: white !important;
+}
+
+.danger {
+    background-color: #ff6c6c;
+}
+
+.success {
+    background-color: #39d040;
+}
+
+.warning {
+    background-color: #fbc038;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
 </style>
 
 <script>
-    function closeAlert() {
-        document.getElementById("alert").style.display = "none";
-    }
-    
-    setTimeout(function() {
-        $('#alert').fadeOut('fast');
-    }, 5000);
-    
+function closeAlert() {
+    document.getElementById("alert").style.display = "none";
+}
+
+setTimeout(function() {
+    $('#alert').fadeOut('fast');
+}, 5000);
 </script>
 
 <?php
@@ -72,8 +74,23 @@ if (isset($_GET)) {
             echo'¡Verifica que todos los campos estén llenos!';
             echo'</div>';
             break;
+
+        case '4':
+            echo'<div id="alert" class="mt-50 alert warning">';
+            echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
+            echo'¡Solo archivos PDF!';
+            echo'</div>';
+            break;
+
+        case '5':
+            echo'<div id="alert" class="mt-50 alert warning">';
+            echo'<span class="closebtn" onclick="closeAlert()">&times;</span>';
+            echo'Tu archivo es muy pesado, máximo 15MB!';
+            echo'</div>';
+            break;
+
+
     }
 }
     
 ?>
-

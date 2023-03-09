@@ -20,7 +20,6 @@
     <div class="container">
         <div class="section-header">
             <div class="section-heading">
-                <h6 class="text-orange mb-xl-10 sub-heading"><span>Contáctanos</span></h6>
                 <h3 class="text-blue fw-700 title">Encuéntranos aquí también<span class="text-orange">.</span></h3>
             </div>
         </div>
@@ -36,7 +35,7 @@
                         <a>
                 </div>
             </div>
-            
+
             <div class="col-lg-4 col-md-6">
                 <div class="contact-info-box">
                     <div class="icon text-orange">
@@ -66,9 +65,12 @@
 <!-- Start contact form -->
 <div class="section-padding-top">
     <div class="container">
+        <div class="section-heading text-center mb-5">
+            <h3 class="text-blue fw-700 title">Proporciónanos más información<span class="text-orange">.</span></h3>
+        </div>
         <div class="col-12">
             <div class="contact-form">
-                <form action="/php/contact.php" method="POST">
+                <form action="/php/contact.php" method="POST" enctype="multipart/form-data">
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group group-form">
@@ -83,7 +85,7 @@
                         <div class="col-md-6">
                             <div class="form-group group-form">
                                 <input type="text" name="nombre" class="form-control form-control-custom"
-                                    placeholder="Nombre *" />
+                                    placeholder="Nombre del solicitante del avalúo*" />
                                 <span class="icon">
                                     <i class="fal fa-user"></i>
                                 </span>
@@ -94,7 +96,7 @@
                         <div class="col-md-6">
                             <div class="form-group group-form">
                                 <input type="text" name="apellidos" class="form-control form-control-custom"
-                                    placeholder="Apellidos *" />
+                                    placeholder="Apellidos " />
                                 <span class="icon">
                                     <i class="fal fa-user"></i>
                                 </span>
@@ -142,6 +144,13 @@
 
                         <div class="col-md-12">
                             <div class="form-group group-form">
+                                <span>Cargar Documentos</span>
+                                <input class="form-control form-control-custom" id="archivo" type="file" name="archivo" />
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group group-form">
                                 <textarea name="msj" class="form-control form-control-custom"></textarea>
                                 <span class="icon">
                                     <i class="fal fa-pencil-alt"></i>
@@ -149,11 +158,12 @@
                             </div>
                         </div>
 
-                            <div class="col-12 col-md-12 text-center mb-5 mt-5">
-                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                        <div class="col-12 col-md-12 text-center mb-5 mt-5">
+                            <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required>
                             </div>
+                        </div>
 
-                        
+
                         <div class="col-12 text-center">
                             <p style="color: #7b7b7b;">
                                 Avaluos Finisterra necesita la información de contacto que nos proporcionas para

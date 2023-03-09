@@ -4,10 +4,61 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
 extract($_REQUEST);
-
 // 0 -> PHP
 // 1 -> AJAX
 $tipo_de_procesamiento = 0;
+
+//GENERAR CODIGO ALEATORIO
+function GeraHash($qtd){ 
+  $Caracteres = '123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'; 
+  $QuantidadeCaracteres = strlen($Caracteres); 
+  $QuantidadeCaracteres--; 
+  
+  $Hash=NULL; 
+  for($x=1;$x<=$qtd;$x++){ 
+      $Posicao = rand(0,$QuantidadeCaracteres); 
+      $Hash .= substr($Caracteres,$Posicao,1); 
+  } 
+  
+  return $Hash; 
+}
+
+date_default_timezone_set('America/Mazatlan');   
+  
+  setlocale(LC_ALL, 'es_MX'); 
+  $mesr = strftime("%m");
+  $anor = strftime("%Y");
+
+
+
+if (!empty($_FILES['archivo']['tmp_name'])) {
+          
+  $PDF_Upload = $_FILES['archivo']['tmp_name']; //DEFINIMOS LA VARIABLE THUMB YA SABEMOS QUE SI SE CARGÓ UNA FOTO
+  
+  if($_FILES['archivo']['type'] !== 'application/pdf'){ 
+    mandarError("4");
+  }
+  
+  if(($_FILES['archivo']['size']) > 15000000){ 
+    mandarError("5");
+
+  }
+  
+      $codigo = GeraHash(10); //LO USAMOS PARA EL NOMBRE DE LA FOTO
+  
+      $ruta = '../upload/PDF/'.$anor.'/'.$mesr.'';
+  
+
+      //SI LA CARPETA NO EXISTE LA CREAMOS
+      if(!file_exists($ruta)) {
+          mkdir($ruta, 0777, true);
+      }
+      
+      //SUBIMOS LA FOTO EN LA CARPETA EXISTENTE O LA CREADA
+      $archivo_subido = ''.$ruta.'/'.$codigo .'.pdf';
+      move_uploaded_file($PDF_Upload, $archivo_subido);
+}
+
 
 /* *
 Códigos de error
@@ -23,18 +74,20 @@ if (!$captcha_es_valido) {
   mandarError("3");
 }
 
-if (!validarVariable($nombre) || !validarVariable($apellidos) || !validarVariable($email) || !validarVariable($tel) || !validarVariable($ubicacion)|| !validarVariable($tipo)|| !validarVariable($msj)  ) {
+if (!validarVariable($nombre) || !validarVariable($email) || !validarVariable($tel) || !validarVariable($ubicacion) || !validarVariable($msj)  ) {
   mandarError("1");
 }
+$archivo = '<a href="https://finisterra.marketingenloscabos.com/'.$ruta.'/'.$codigo.'.pdf">Descargar archivo</a>';
 
 $correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
-$correo_nuevo->agregarCampos("Nombre: ", $empresa);
+$correo_nuevo->agregarCampos("Empresa: ", $empresa);
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
-$correo_nuevo->agregarCampos("Nombre: ", $apellidos);
+$correo_nuevo->agregarCampos("Apellidos: ", $apellidos);
 $correo_nuevo->agregarCampos("Email: ", $email);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
 $correo_nuevo->agregarCampos("Asunto: ", $ubicacion);
-$correo_nuevo->agregarCampos("Nombre: ", $tipo);
+$correo_nuevo->agregarCampos("Tipo de Servicio: ", $tipo);
+$correo_nuevo->agregarCampos("Documentos: ", $archivo);
 $correo_nuevo->agregarCampos("Mensaje: ", $msj);
 // $correo_nuevo->agregarCampos("Mensaje: ", $msj);
 $enviado = $correo_nuevo->enviarEmail();
@@ -53,7 +106,7 @@ function mandarError($codigo_de_error)
     
   if ($GLOBALS["tipo_de_procesamiento"] == 0) {
       
-       //header('location: index.html?err=' .$codigo_de_error);
+      //  header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
         header('location: /?msj='. $codigo_de_error);
@@ -75,6 +128,18 @@ function mandarError($codigo_de_error)
       
     exit;   
     }
+    if($codigo_de_error == "4"){
+      header('location: /?msj=' . $codigo_de_error);
+      exit;
+    
+  exit;   
+  }
+  if($codigo_de_error == "5"){
+    header('location: /?msj=' . $codigo_de_error);
+    exit;
+  
+exit;   
+}
   else {
     echo json_encode(array('error' => $codigo_de_error));
     exit;
@@ -162,7 +227,7 @@ class Correo
     <html lang="es">
       <head>
         <meta name="viewport" content="width=device-width">
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta http-equiv="Content-Type: multipart/mixed;" content="text/html; charset=UTF-8">
         <title></title>
         <style>
         @media only screen and (max-width: 620px) {
