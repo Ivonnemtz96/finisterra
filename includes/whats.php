@@ -996,7 +996,7 @@
         <div class="wa__popup_content_list">
             <div class="wa__popup_content_item ">
                 <a target="_blank"
-                    href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita."
+                    href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20hacer%20contacto%20para%20un%20avalúo."
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
