@@ -68,7 +68,7 @@
         <div class="section-heading text-center mb-5">
             <h3 class="text-blue fw-700 title">Proporciónanos más información<span class="text-orange">.</span></h3>
         </div>
-        <div class="col-12">
+        <div class="col-12" style="margin-bottom: 15rem;">
             <div class="contact-form">
                 <form action="/php/contact.php" method="POST" enctype="multipart/form-data">
                     <div class="row">
