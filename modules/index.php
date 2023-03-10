@@ -169,7 +169,7 @@
                         <span class="icon">
                             <img src="/assets/images/hoteles.png" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Hoteles</span>
+                        <span style="font-size: .6rem;" class="icon-text">Edificios de departamentos</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-6">
                         <span class="icon">
