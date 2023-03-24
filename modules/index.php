@@ -13,7 +13,7 @@
                                 </a> -->
                                 <h1 class="text-custom-white fw-600 heading-title">Expertos en Valuación</h1>
                                 <p class="no-margin text-custom-white">
-                                    Conoce el Valor Real de una Propiedad y estima un precio justo para su Venta
+                                    Conoce el Valor Real de una Propiedad y estima un precio justo para la adecuada toma de decisiones.
                                 </p>
                             </div>
                         </div>
@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="slide-item">
-            <img src="/assets/images/banner-1.jpg?=2" class="image-fit" alt="">
+            <img src="/assets/images/carros.jpg?=2" class="image-fit" alt="">
             <div class="transform-center">
                 <div class="container">
                     <div class="row">
@@ -79,7 +79,7 @@
                     <div class="section-heading">
                         <h3 class="text-blue fw-700 title">Somos expertos en el área<span class="text-orange">.</span>
                         </h3>
-                        <p class="desc justificado">
+                        <p style="color: #000;" class="desc justificado">
                             En la elaboración de nuestros avalúos, nos comprometemos a ayudar a nuestros clientes a
                             lograr sus objetivos ofreciendo servicios confiables de valuación para utilizarse en la
                             óptima toma de decisiones, comerciales o financieras con el mejor respaldo técnico en el
@@ -92,7 +92,7 @@
                 <div class="row align-items-center">
                     <div class="col-8">
                         <h4 class="mb-xl-10 fw-600">Misión<span class="text-orange">.</span></h4>
-                        <p class="justificado">
+                        <p style="color: #000;" class="justificado">
                             Nos esforzamos cada día en ofrecer a nuestros clientes un excelente servicio de valuación,
                             por eso seguimos rigurosamente normas y procedimientos nacionales e internacionales de
                             valuación, así como un código de prácticas interno y una constante renovación en nuestros
@@ -123,12 +123,12 @@
                     <div class="section-heading">
                         <h3 class="text-blue fw-700 title jutificado">Atendemos pricipalmente los siguientes bienes<span
                                 class="text-orange">.</span></h3>
-                        <p class="desc justificado">
+                        <p style="color: #fff;" class="desc justificado">
                             Consultoría de validación para los principales sectores económicos.
                         </p>
                     </div>
                 </div>
-                <ul class="custom profit-list">
+                <ul style="color: #fff;" class="custom profit-list">
                     <li>Contamos con la experiencia profesional requerida</li>
                     <li>La calidad de servicio a los clientes es nuestro principal objetivo</li>
                 </ul>
@@ -139,51 +139,51 @@
             <div class="col-lg-6">
                 <div class="profit-chart-box">
                     <a href="/" class="chart-logo">
-                        <img src="/assets/images/logo-icon.jpg" class="image-fit" alt="">
+                        <img src="/assets/images/logo-icon.jpg?=2" class="image-fit" alt="">
                     </a>
-                    <a href="#" class="profit-icon icon-ps-1">
+                    <a href="#" class="profit-icon icon-ps-1" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/inmobiliario.png" alt="">
                         </span>
                         <span style="font-size: .7rem;" class="icon-text">Inmobiliario</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-2">
+                    <a href="#" class="profit-icon icon-ps-2" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/carros.png?=1" alt="">
                         </span>
                         <span style="font-size: .7rem;" class="icon-text">Autos de Colección</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-3">
+                    <a href="#" class="profit-icon icon-ps-3" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/montacarga.png?=1" alt="">
                         </span>
                         <span style="font-size:.7rem;" class="icon-text">Maquinaria y equipo</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-4">
+                    <a href="#" class="profit-icon icon-ps-4" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/bodega.png" alt="">
                         </span>
                         <span style="font-size: .7rem;" class="icon-text">Proyectos de inversión</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-5">
+                    <a href="#" class="profit-icon icon-ps-5" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/hoteles.png" alt="">
                         </span>
                         <span style="font-size: .6rem;" class="icon-text">Edificios de departamentos</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-6">
+                    <a href="#" class="profit-icon icon-ps-6" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/arte.png" alt="">
                         </span>
                         <span style="font-size: .7rem;" class="icon-text">Obra de arte</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-7">
+                    <a href="#" class="profit-icon icon-ps-7" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/joyas.png" alt="">
                         </span>
                         <span style="font-size: .7rem;" class="icon-text">Joyas</span>
                     </a>
-                    <a href="#" class="profit-icon icon-ps-8">
+                    <a href="#" class="profit-icon icon-ps-8" style="border-radius: 15px;">
                         <span class="icon">
                             <img src="/assets/images/patentes.png" alt="">
                         </span>

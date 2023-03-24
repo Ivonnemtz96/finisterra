@@ -969,6 +969,7 @@
     -moz-transform: translate(0, 15px);
     opacity: 0;
     visibility: hidden;
+    
 }
 
 /* ^^^--popup button--^^^ */

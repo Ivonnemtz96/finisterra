@@ -99,13 +99,12 @@
                         <div class="icon">
                             <img src="/assets/images/clasico.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Bienes de intereses especiales:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes de interés especial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
                         <li>Automóviles de colección</li>
-                        <li>Automóviles clásicos</li>
-                        <li>Obra de arte.</li>
+                        <li>Obras de arte.</li>
                         <li>Joyas</li>
                     </ul>
                     </p>
@@ -125,7 +124,7 @@
                         <!-- <li>Camiones y Tractocamiones</li> -->
                         <li>Tractores</li>
                         <li>Montacargas</li>
-                        <li>Bodega</li>
+                        <li>Equipos especiales o industriales</li>
                     </ul>
                     </p>
                     <i class="flaticon-investment bg-icon"></i>
@@ -141,8 +140,8 @@
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
-                        <li>Aeronave</li>
-                        <li>Embarcación y Artefactos Navales.</li>
+                        <li>Aeronaves</li>
+                        <li>Embarcaciones y Artefactos Navales.</li>
                     </ul>
                     </p>
                     <i class="flaticon-box bg-icon"></i>
@@ -162,8 +161,8 @@
                     <ul>
                         <li>Marcas.</li>
                         <li>Patentes.</li>
-                        <li>Proyectos Financieros.</li>
-                        <li>Valoración de empresas (tangibles e intangibles).</li>
+                        <li>Proyectos de inversión.</li>
+                        <li>Valoración de empresas.</li>
                         <li>Entre otros.</li>
                     </ul>
                     </p>
@@ -196,10 +195,9 @@
                         <img class="card-img-top" style="margin-bottom: 1.5rem;" src="/assets/images/gallery-2.jpg"
                             alt="">
                         <div class="card-body">
-                            <h5 class="card-title">Marcas de patentes</h5>
+                            <h5 class="card-title">Marcas y patentes</h5>
                             <p class="card-text">
-                                Registra tus marcas para que tus clientes identifiquen fácilmente tus productos y
-                                servicios en el mercado.
+                            Conoce el valor de estos bienes intangibles tanto para  reflejarlos en tus estados financieros como para venderlos.
                             </p>
                         </div>
                     </div>
@@ -213,7 +211,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Autos de colección</h5>
                             <p class="card-text">
-                                Proteja su inversión en autos de coleccion con una evaluación profesional. <br><br>
+                                Proteja su inversión en autos de coleccion con una valuación profesional. <br><br>
                             </p>
                         </div>
                     </div>

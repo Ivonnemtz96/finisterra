@@ -628,7 +628,7 @@ table th{
 }
 .group-form .icon{
     font-size: 15px;
-    color: #b89632;
+    color: #ff8f3d;
     position: absolute;
     left: 40px;
     top: 50%;
@@ -771,7 +771,7 @@ label.custom-checkbox .checkmark:after {
 }
 .theme-btn.btn-orange{
     color: #fff;
-    background-color: #b89632;
+    background-color: #ff8f3d;
 }
 .theme-btn.btn-orange:hover{
     background-color: #14212b;
@@ -864,7 +864,7 @@ label.custom-checkbox .checkmark:after {
 1.5. Section-Colors-&-Backgrounds
 ====================*/
 .bg-light-white {
-    background-color: #f3f5f7;
+    background-color: #181526;
 }
 .bg-custom-white {
     background-color: #ffffff;
@@ -892,10 +892,10 @@ label.custom-checkbox .checkmark:after {
     color: #adbecc;
 }
 .text-orange{
-    color: #b89632;
+    color: #ff8f3d;
 }
 .text-blue{
-    color: #14212b;
+    color: #e8a14f;
 }
 .text-red{
     color: #800000;
@@ -1071,7 +1071,7 @@ label.custom-checkbox .checkmark:after {
     cursor: pointer;
 }
 .header .navigation .main-menu>.menu-item>a:hover{
-    color: #b89632;
+    color: #ff8f3d;
 }
 .menu-item-has-children>a>.arrow:after{
     display: inline-block;
@@ -1277,14 +1277,14 @@ label.custom-checkbox .checkmark:after {
 }
 .main-slider-nav .slide-item.slick-current{
     background: #fff;
-    border-top: 4px solid #b89632;
+    border-top: 4px solid #ff8f3d;
 }
 .main-slider-nav .slide-item.slick-current p,
 .main-slider-nav .slide-item.slick-current h4{
     color: #14212b;
 }
 .main-slider-nav .slide-item.slick-current p:before{
-    background-color: #b89632;
+    background-color: #ff8f3d;
 }
 .main-slider-nav .slick-track{
     transform: none!important;
@@ -1523,7 +1523,7 @@ ul.profit-list li:before{
 }
 .skill-progress-bar .progressbar-wrap .progressbar{
     height: 10px;
-    background-color: #b89632;
+    background-color: #ff8f3d;
     transition: width 2s ease-in-out;
     width: 0;
 }
@@ -1632,7 +1632,7 @@ ul.profit-list li:before{
 }
 .quote-sec .quote-box:after{
     content: '';
-    background: #b89632;
+    background: #ff8f3d;
     display: block;
     width: calc(100% - 30px);
     height: 100%;

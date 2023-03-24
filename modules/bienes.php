@@ -49,7 +49,7 @@
                         <div class="icon">
                             <img src="/assets/images/clasico.png" alt="">
                         </div>
-                        <h4 class="fw-600 no-margin"><a href="">Bienes de intereses especiales:</a></h4>
+                        <h4 class="fw-600 no-margin"><a href="">Bienes de interés especial:</a></h4>
                     </div>
                     <p class="fw-500 mb-xl-10">
                     <ul>
