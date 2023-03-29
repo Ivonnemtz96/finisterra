@@ -60,7 +60,7 @@
                 <div class="col-lg-3 col-6">
                     <div class="logo">
                         <a href="/">
-                            <img src="/assets/images/logo.png" class="image-fit" alt="">
+                            <img src="/assets/images/logo.png?=1" class="image-fit" alt="">
                         </a>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                         <a href="/contacto" class="theme-btn btn-orange">Solicitar presupuesto<i class="fal fa-plus"></i></a>
                     </div>
                     <div class="hamburger-btn">
-                        <div class="menu-btn">
+                        <div class="menu-btn" >
                             <span></span>
                             <span></span>
                             <span></span>

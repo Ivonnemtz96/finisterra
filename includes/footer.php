@@ -15,11 +15,11 @@
                     </li>
                 </ul>
             </div> -->
-            <div class="col-lg-4 col-md-6">
+            <div class="col-lg-12 col-md-12">
                 <p class="text-custom-white fw-500">Copyright 2023 Avalúos Finisterra. Diseñado por  <a href="https://bananagroup.mx/"
                         class="text-custom-white">Banana Group Marketing</a></p>
             </div>
-            <div class="col-lg-4">
+            <!-- <div class="col-lg-4">
                 <ul class="custom-flex ft-social">
                     <li>
                         <a href="#" class="text-custom-white">
@@ -35,7 +35,7 @@
                    
                     
                 </ul>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>
