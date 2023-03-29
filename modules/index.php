@@ -36,7 +36,7 @@
 
                                 </h2>
                                 <p class="no-margin text-custom-white">
-                                    Avalúos profesionales y certicados con validez oficial
+                                    Avalúos profesionales y certificados con validez oficial
                                 </p>
                             </div>
                         </div>
@@ -121,7 +121,7 @@
             <div class="col-lg-6 mb-md-80">
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
-                        <h3 class="text-blue fw-700 title jutificado">Atendemos pricipalmente los siguientes bienes<span
+                        <h3 class="text-blue fw-700 title jutificado">Atendemos principalmente los siguientes bienes<span
                                 class="text-orange">.</span></h3>
                         <p style="color: #fff;" class="desc justificado">
                             Consultoría de valuación para los principales sectores económicos.
@@ -236,7 +236,7 @@
                 <div class="process-box">
                     <!-- <a href="#" class="text-orange fw-600 fs-14">Read more <i
                             class="fal fa-plus ml-1 fw-600 fs-12"></i></a> -->
-                    <h4 class="fw-600">Análisis / Diagnóstico del bien a evaluar</h4>
+                    <h4 class="fw-600">Análisis / Diagnóstico del bien a valuar</h4>
                     <!-- <p>
                         Consultoría de valuación para todo tipo de sectores, desde vivienda hasta cualquier industria.
                     </p> -->
@@ -386,7 +386,7 @@
                         <div class="card">
                             <div class="card-header">
                                 <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    ¿Para qué personas o entidades se elabora un informe de valuavción?
+                                    ¿Para qué personas o entidades se elabora un informe de valuación?
                                     <span>
                                         <i class="fal fa-arrow-down"></i>
                                     </span>

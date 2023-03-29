@@ -170,7 +170,7 @@
                                 ponernos en contacto contigo acerca de nuestros productos y servicios. Puedes darte de
                                 baja de estas comunicaciones en cualquier momento. Para obtener información sobre cómo
                                 darte de baja, así como nuestras prácticas de privacidad y el compromiso de proteger tu
-                                privacidad, consulta nuestra Política de privacidad. <br><br>
+                                privacidad. <br><br>
                             </p>
                             <button type="submit" class="theme-btn btn-orange">Enviar</button>
                         </div>
