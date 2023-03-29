@@ -124,7 +124,7 @@
                         <h3 class="text-blue fw-700 title jutificado">Atendemos pricipalmente los siguientes bienes<span
                                 class="text-orange">.</span></h3>
                         <p style="color: #fff;" class="desc justificado">
-                            Consultoría de validación para los principales sectores económicos.
+                            Consultoría de valuación para los principales sectores económicos.
                         </p>
                     </div>
                 </div>
@@ -139,55 +139,55 @@
             <div class="col-lg-6">
                 <div class="profit-chart-box">
                     <a href="/" class="chart-logo">
-                        <img src="/assets/images/logo-icon.jpg?=2" class="image-fit" alt="">
+                        <img src="/assets/images/logo-icon.jpg?=3" class="image-fit" alt="">
                     </a>
                     <a href="#" class="profit-icon icon-ps-1" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/inmobiliario.png" alt="">
+                            <img src="/assets/images/inmobiliario.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Inmobiliario</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Inmobiliario</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-2" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/carros.png?=1" alt="">
+                            <img src="/assets/images/carros.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Autos de Colección</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Autos de Colección</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-3" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/montacarga.png?=1" alt="">
+                            <img src="/assets/images/montacarga.png?=3" alt="">
                         </span>
-                        <span style="font-size:.7rem;" class="icon-text">Maquinaria y equipo</span>
+                        <span style="font-size:.7rem;color:#fff;" class="icon-text">Maquinaria y equipo</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-4" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/bodega.png" alt="">
+                            <img src="/assets/images/bodega.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Proyectos de inversión</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Proyectos de inversión</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-5" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/hoteles.png" alt="">
+                            <img src="/assets/images/hoteles.png?=3" alt="">
                         </span>
-                        <span style="font-size: .6rem;" class="icon-text">Edificios de departamentos</span>
+                        <span style="font-size: .6rem;color:#fff;" class="icon-text">Edificios de departamentos</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-6" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/arte.png" alt="">
+                            <img src="/assets/images/arte.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Obra de arte</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Obra de arte</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-7" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/joyas.png" alt="">
+                            <img src="/assets/images/joyas.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Joyas</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Joyas</span>
                     </a>
                     <a href="#" class="profit-icon icon-ps-8" style="border-radius: 15px;">
                         <span class="icon">
-                            <img src="/assets/images/patentes.png" alt="">
+                            <img src="/assets/images/patentes.png?=3" alt="">
                         </span>
-                        <span style="font-size: .7rem;" class="icon-text">Marcas Patentes</span>
+                        <span style="font-size: .7rem;color:#fff;" class="icon-text">Marcas Patentes</span>
                     </a>
                 </div>
             </div>
@@ -428,7 +428,7 @@
                             <div class="section-header left-heading pb-0">
                                 <div class="section-heading">
                                     </h6>
-                                    <h3 class="fw-700 title text-custom-white">Contáctanos o solicita tu presupuesto sin compromiso alguno<span class="text-orange">.</span></h3>
+                                    <h3 class="fw-700 title text-custom-white" style="font-size: 24px;">Contáctanos o solicita tu presupuesto sin compromiso alguno<span class="text-orange">.</span></h3>
                                 </div>
                             </div>
                         </div>
@@ -436,13 +436,13 @@
                             <p class="text-custom-white">
                                 Déjanos tus datos y pronto nos pondremos en contacto contigo o márcanos al:
                             </p>
-                            <a href="tel:6241555762" class="text-custom-white contact-no">
+                            <a style="font-size: 20px; margin-bottom: 1rem;" href="tel:6241555762" class="text-custom-white contact-no">
                                 <i class="fal fa-phone text-orange"></i>
-                             Llamadas:  624 155 5762
+                             Llamadas: <br> 624 155 5762
                             </a>
-                            <br>
-                            <a class="text-custom-white contact-no" href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
-                                <img style="width: 3rem;" src="/assets/images/whatsapp.png" alt="">WhatsApp: 624 155 5762
+                            <br> <br><br>
+                            <a style="font-size: 20px;" class="text-custom-white contact-no" href="https://wa.me/+526241555762?text=Hola,%20me%20gustar%C3%ADa%20agendar%20una%20cita.">
+                                <img style="width: 2rem;" src="/assets/images/whatsapp.png" alt="">WhatsApp: <br> 624 155 5762
                             </a>
                         </div>
                     </div>

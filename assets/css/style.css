@@ -1391,7 +1391,7 @@ ul.profit-list li:before{
     left: 50px;
     width: calc(100% - 100px);
     height: calc(100% - 100px);
-    background: #fff;
+    background: #e8a14f;
 }
 .profit-chart-box .chart-logo{
     width: 100px;
@@ -1415,10 +1415,10 @@ ul.profit-list li:before{
     height: 100px;
     width: 100px;
     justify-content: center;
-    border: 4px solid #f3f5f7;
+    border: 2px solid #181526;
     text-align: center;
     padding: 18px 0px;
-    background: #fff;
+    background: #e8a14f;
     position: absolute;
 }
 .profit-chart-box .profit-icon:hover{
