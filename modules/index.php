@@ -122,16 +122,16 @@
                 <div class="section-header left-heading pb-0">
                     <div class="section-heading">
                         <h3 class="text-blue fw-700 title jutificado">Atendemos principalmente los siguientes bienes<span
-                                class="text-orange">.</span></h3>
-                        <p style="color: #fff;" class="desc justificado">
+                                class="text-orange">:</span></h3>
+                        <!-- <p style="color: #fff;" class="desc justificado">
                             Consultoría de valuación para los principales sectores económicos.
-                        </p>
+                        </p> -->
                     </div>
                 </div>
-                <ul style="color: #fff;" class="custom profit-list">
+                <!-- <ul style="color: #fff;" class="custom profit-list">
                     <li>Contamos con la experiencia profesional requerida</li>
                     <li>La calidad de servicio a los clientes es nuestro principal objetivo</li>
-                </ul>
+                </ul> -->
                 <a href="/contacto" class="theme-btn btn-orange">
                     Contactar <i class="fal fa-plus"></i>
                 </a>
@@ -385,14 +385,11 @@
                         </div> -->
                         <div class="card">
                             <div class="card-header">
-                                <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
-                                    ¿Para qué personas o entidades se elabora un informe de valuación?
-                                    <span>
-                                        <i class="fal fa-arrow-down"></i>
-                                    </span>
+                                <a  class="collapsed card-link"  href="/contacto">
+                                    Contáctanos
                                 </a>
                             </div>
-                            <div id="collapseThree" class="collapse" data-parent="#accordion">
+                            <!-- <div id="collapseThree" class="collapse" data-parent="#accordion">
                                 <div class="card-body">
                                     <ul>
                                         <li>Inmobiliario</li>
@@ -403,7 +400,7 @@
                                         <li>Forestales y silvicultura</li>
                                     </ul>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -483,7 +480,7 @@
                         <img src="/assets/images/gallery-4.jpg?=2" class="image-fit" alt="">
                         <div class="gallery-text">
                             <!-- <p class="text-orange mb-xl-10 fw-600 double-lines"><span>Avalúos de todo tipo</span></p> -->
-                            <h3 class="fw-600"><a href="/contacto">Maquinaria de construcción</a></h3>
+                            <h3 class="fw-600"><a href="/contacto">Maquinaria y equipo</a></h3>
                         </div>
                     </div>
                 </div>
